@@ -1,8 +1,8 @@
-title:            Sunghyun Kim 
-description:      Sunghyun Kim's personal site
-url:              https://frssp.github.io
-signoff:          # Sunghyun Kim
-disqus_shortname: frssp-github-io # disqus comment thread for post header options. ( leave blank if unwanted. )
+title:            Peng-Fei Liu
+description:      Peng-Fei Liu's personal site
+url:              https://comatphys.github.io
+signoff:          # Peng-Fei Liu
+disqus_shortname: comatphys.github.io # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
@@ -19,8 +19,8 @@ links:
     # - name:         phys_kr
     #   url:          /phys_kr
     #  - name:         GitHub
-    #    _url:          http://github.com/frssp
-#external:     true
+    #    _url:         https://github.com/comatphys
+# external:     true
 # highlighter:      pygments
 plugins:
   - jemoji
