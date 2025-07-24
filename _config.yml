@@ -7,17 +7,17 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         CV
-    url:          /index.html
-  - name:         Presentation
-    url:          https://speakerdeck.com/sunghyunkim
-    external:     true
-  - name:         Blog   
-    url:          /post   
-  - name:         Link   
-    url:          /link   
-  - name:         phys_kr
-    url:          /phys_kr
+    #  - name:         CV
+    #    url:          /index.html
+    #  - name:         Presentation
+    #   url:          https://speakerdeck.com/sunghyunkim
+    #    external:     true
+    #  - name:         Blog   
+    #    url:          /post   
+    # - name:         Link   
+    #   url:          /link   
+    # - name:         phys_kr
+    #   url:          /phys_kr
     #  - name:         GitHub
     #    _url:          http://github.com/frssp
 #external:     true
