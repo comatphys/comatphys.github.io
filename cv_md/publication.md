@@ -61,7 +61,7 @@ Shaoqing Chen†, Hui-Min Yan†, Jochi Tseng†, Shijie Ge, Xia Li, Lin Xie, Zi
 [J. Am. Chem. Soc., 2024, 146, 13703–13708.](https://doi.org/10.1021/jacs.4c01770)
 
 1. **Surface-induced a Local Electronegative Field to Engineer K-enriched Microenvironment for High-Performance Alkaline Hydrogen Evolution Reaction**,
-Jie Chena*, Zhihuai Lin, Peng-Fei Liu, Hongze Cai, Jianpeng Zeng, Fengying Zheng, Yancai Li\*, and Shunxing Li\*,
+Jie Chen*, Zhihuai Lin, Peng-Fei Liu, Hongze Cai, Jianpeng Zeng, Fengying Zheng, Yancai Li\*, and Shunxing Li\*,
 [Sep. Purif. Technol., 2024, 347, 127538.](https://doi.org/10.1016/j.seppur.2024.127538)
 
 1. **Entropy Engineering Enabled Atomically Dispersed Cu Doping Leading to Exceptionally High Thermoelectric Figure of Merit in n-type Lead Chalcogenides**,
