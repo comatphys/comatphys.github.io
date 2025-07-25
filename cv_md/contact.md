@@ -1,11 +1,8 @@
-Principle Researcher at
-Device Research Center,  
-[Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr)  
-130 Samsung-ro, Yeongtong-gu, Suwon-si,  
-Gyeonggi-do, 443-803, Republic of Korea  
-:email: [frssp.kim@gmail.com](mailto:frssp.kim@gmail.com) 
-| ![google scholar](/images/gs.svg){:height="20px" } [google scholar](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ)
-| :house: [frssp.github.io](https://frssp.github.io)
-| :octocat: [frssp](https://github.com/frssp)
-| ![orcid](/images/orcid.svg){:height="20px"} [0000-0001-5072-6801](https://orcid.org/0000-0001-5072-6801)  
+Associate researcher at China Neutron Science Center, IHEP, CAS  
+E1-518, 1 Zhongziyuan Road, Dongguan, 523803, China  
+:email: [pfliu@ihep.ac.cn](mailto:pfliu@ihep.ac.cn) 
+| ![google scholar](/images/gs.svg){:height="20px" } [google scholar](https://scholar.google.com/citations?user=v0zhAS4AAAAJ&hl)
+| :house: [https://comatphys.github.io/](https://comatphys.github.io/)
+| :octocat: [frssp](https://github.com/comatphys)
+| ![orcid](/images/orcid.svg){:height="20px"} [0000-0002-9170-5238](https://orcid.org/0000-0002-9170-5238)  
 
