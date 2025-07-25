@@ -435,3 +435,243 @@ Zhen Meng†, Yong Liu†, Guangxing Yang*, Yonghai Cao, Hongjuan Wang, Feng Pen
 1. **Emergence of superconductivity in a Dirac nodal-line Cu<sub>2</sub>Si monolayer: ab initio calculations**,
 Luo Yan†, Peng-Fei Liu†, Tao Bo, Junrong Zhang, Minghua Tang, Yongguang Xiao*, and Bao-Tian Wang*,
 [J. Mater. Chem. C, 2019, 7, 10926-10932.](https://doi.org/10.1039/C9TC03740C)
+
+1. **Novel structures of two-dimensional tungsten boride and their superconductivity**,
+Luo Yan, Tao Bo, Wenxue Zhang, Peng-Fei Liu, Yong-Guang Xiao*, Ming-Hua Tang*, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2019, 21, 15327-15338.](https://doi.org/10.1039/C9CP02727K)
+
+1. **Quaternary semiconductor Ba<sub>8</sub>Zn<sub>4</sub>Ga<sub>2</sub>S<sub>15</sub> featuring unique one-dimensional chains and exhibiting desirable yellow emission**,
+Yan-Yan Li, Peng-Fei Liu, Hua Lin*, Li-Ming Wu*, Xin-Tao Wu, and Qi-Long Zhu*,
+[Chem. Comm., 2019, 55, 7942-7945.](https://doi.org/10.1039/C9CC02575H)
+
+1. **Understanding of transition metal (Ru, W) doping into Nb for improved thermodynamic stability and hydrogen permeability**,
+Yang Wu, Zhongmin Wang*, Peng-Fei Liu, Tao Bo, Chongyan Hao, Chaohao Hu, Zhenxiang Cheng*, Bao-Tian Wang*, and Huaiying Zhou,
+[Phys. Chem. Chem. Phys., 2019, 21, 17538-17545.](https://doi.org/10.1039/C9CP02012H)
+
+1. **Topological and superconducting properties in YD<sub>3</sub> (D= In, Sn, Tl, Pb)**,
+Xin-Hai Tu, Peng-Fei Liu, and Bao-Tian Wang*,
+[Phys. Rev. Materials, 2019, 3, 054202.](https://doi.org/10.1103/PhysRevMaterials.3.054202)
+
+1. **First-principles study of thermal transport properties in the two- and three-dimensional forms of Bi<sub>2</sub>O<sub>2</sub>Se**,
+Xue-Liang Zhu, Peng-Fei Liu, Guo-Feng Xie*, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2019, 21, 10931-10938.](https://doi.org/10.1039/C9CP01867K)
+
+1. **First-principles calculations of thermal transport properties in MoS<sub>2</sub>/MoSe<sub>2</sub> bilayer heterostructure**,
+Jiangjiang Ma, Jingjing Zheng, Xueliang Zhu, Peng-Fei Liu, Weidong Li, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2019, 21, 10442-10448.](https://doi.org/10.1039/C9CP01702J)
+
+1. **Thermoelectric properties of hexagonal M<sub>2</sub>C<sub>3</sub> (M = As, Sb, and Bi) monolayers from first-principles calculations**,
+Xueliang Zhu, Peng-Fei Liu, Guofeng Xie*, Wuxing Zhou, Bao-Tian Wang, and Gang Zhang*,
+[Nanomaterials, 2019, 9, 597.](https://doi.org/10.3390/nano9040597)
+
+1. **Understanding cement hydration of cemented paste backfill: DFT study of water adsorption on tricalcium silicate (111) surface**,
+Chongchong Qi, Lang Liu*, Jianyong He, Qiusong Chen, Li-Juan Yu, and Peng-Fei Liu,
+[Minerals, 2019, 9, 202.](https://doi.org/10.3390/min9040202)
+
+1. **Monolayer Zr<sub>2</sub>B<sub>2</sub>: a promising two-dimensional anode material for Li-ion batteries**,
+Guanghui Yuan†, Tao Bo†, Xiang Qi, Peng-Fei Liu, Zongyu Huang*, and Bao-Tian Wang*,
+[Appl. Surf. Sci., 2019, 480, 448-453.](https://doi.org/10.1016/j.apsusc.2019.02.222)
+
+1. **Tetragonal and trigonal Mo<sub>2</sub>B<sub>2</sub>: two new low-dimensional materials for Li-ion and Na-ion batteries**,
+Tao Bo, Peng-Fei Liu, Jurong Zhang, Fangwei Wang, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2019, 21, 5178-5188.](https://doi.org/10.1039/C9CP00012G)
+
+1. **Prediction of phonon-mediated superconductivity in two-dimensional Mo<sub>2</sub>B<sub>2</sub>**,
+Luo Yan†, Tao Bo†, Peng-Fei Liu, Bao-Tian Wang*, Yongguang Xiao*, and Ming-Hua Tang,
+[J. Mater. Chem. C, 2019, 7, 2589-2595.](https://doi.org/10.1039/C8TC06123H)
+
+1. **Two-dimensional spin-valley-coupled Dirac semimetals in functionalized SbAs monolayers**,
+Zhifeng Liu, Wanxiang Feng, Hongli Xin, Yinlu Gao, Peng-Fei Liu, Yugui Yao, Hongming Weng, and Jijun Zhao*,
+[Mater. Horiz., 2019, 6, 781-787.](https://doi.org/10.1039/C8MH01588K)
+
+1. **Application of ﬁrst-principles theory in ferrite phases of cemented paste backfill**,
+Chongchong Qi*, Andy Fourie, Qiusong Chen, Peng-Fei Liu,
+[Miner. Eng., 2019, 133, 47-51.](https://doi.org/10.1016/j.mineng.2019.01.011)
+
+1. **Thermoelectric properties of hexagonal WN<sub>6</sub> from first-principles calculation**,
+Xue-Liang Zhu, Peng-Fei Liu, Hao Gao, Guofeng Xie*, and Bao-Tian Wang*,
+[ES Energy Environ., 2019, 3, 80-87.](https://doi.org/10.30919/esee8c213)
+
+1. **Electronic structure and photoluminescence of Dy<sup>3+</sup> single-doped and Dy<sup>3+</sup>/Tm<sup>3+</sup> co-doped NaBi(WO<sub>4</sub>)<sub>2</sub> phosphors**,
+Jianhui Huang*, Weixiong You, Guoliang Gong, Guojue Liu, Peng-Fei Liu, and Bo Wang*,
+[Opt. Mater., 2019, 88, 534-539.](https://doi.org/10.1016/j.optmat.2018.12.029)
+
+1. **First-principles study of electronic structure and superconductivity of PbTa<sub>2</sub>Se**,
+Wenxue Zhang, Peng-Fei Liu, and Bao-Tian Wang*,
+[Mater. Res. Express, 2019, 6, 046001.](https://doi.org/10.1088/2053-1591/aafb21)
+
+1. **Effects of impurity doping on the luminescence performance of Mn<sup>4+</sup>-doped aluminates with the magnetoplumbite-type structure for plant cultivation**,
+Xiaoshuang Li, Zikun Chen, Bo Wang*, Ruizhao Liang, Yongting Li, Lei Kang, and Peng-Fei Liu,
+[Materials, 2019, 12, 86.](https://doi.org/10.3390/ma12010086)
+
+1. **Ba<sub>10</sub>Zn<sub>7</sub>M<sub>6</sub>Q<sub>26</sub>: two new mid-infrared nonlinear optical crystals with T2 supertetrahedron 3D framework**,
+Yanyan Li, Hui Wang, Bo-Wen Sun, Qin-Qin Ruan, Yan-Ling Geng, Peng-Fei Liu, Lei Wang, and Li-Ming Wu*,
+[Cryst. Growth Des., 2019, 19, 2, 1190-1197.](https://doi.org/10.1021/acs.cgd.8b01644)
+
+1. **Solid-state preparation, structural characterization, physical properties and theoretical studies of a series of novel rare-earth metal-chalcogenides with unprecedented closed cavities**,
+Hong Chen, Peng-Fei Liu, Hua Lin*, Li-Ming Wu*, and Xin-Tao Wu,
+[Cryst. Growth Des., 2019, 19, 1, 444-452.](https://doi.org/10.1021/acs.cgd.8b01541)
+
+1. **Structural stability, electronic and magnetic properties of O-doped monolayer C<sub>2</sub>N**,
+Ying Chen, Guang-Hua Liu, Yi-Peng Li, Long-Juan Kong, and Peng-Fei Liu,
+[Chinese J. Struc. Chem., 2019, 38, 76-82.](https://doi.org/10.14102/j.cnki.0254-5861.2011-2051)			
+
+1. **First-principles calculations of the ultralow thermal conductivity in two-dimensional group-IV selenides**,
+Peng-Fei Liu, Tao Bo, Juping Xu, Wen Yin, Junrong Zhang, Fangwei Wang, Olle Eriksson, and Bao-Tian Wang*,
+[Phys. Rev. B, 2018, 98, 235426.](https://doi.org/10.1103/PhysRevB.98.235426)
+
+1. **Hexagonal M<sub>2</sub>C<sub>3</sub> (M = As, Sb, and Bi) monolayers: new functional materials with desirable band gaps and ultrahigh carrier mobility**,
+Peng-Fei Liu, Tao Bo, Zhifeng Liu, Olle Eriksson, Fangwei Wang, Jijun Zhao*, and Bao-Tian Wang*,
+[J. Mater. Chem. C, 2018, 6, 12689-12697.](https://doi.org/10.1039/C8TC04165B)
+
+1. **Modifying disordered sites with rational cations to regulate band-gaps and second harmonic generation responses markedly: Ba<sub>6</sub>Li<sub>2</sub>ZnSn<sub>4</sub>S<sub>16</sub> vs Ba<sub>6</sub>Ag<sub>2</sub>ZnSn<sub>4</sub>S<sub>16</sub> vs Ba<sub>6</sub>Li<sub>2.67</sub>Sn<sub>4.33</sub>S<sub>16</sub>**,
+Rui-Huan Duan†, Rui-An Li†, Peng-Fei Liu, Hua Lin*, Yue Wang, and Li-Ming Wu*,
+[Cryst. Growth Des., 2018, 18, 5609-5616.](https://doi.org/10.1021/acs.cgd.8b00927)
+
+1. **Hexagonal Ti<sub>2</sub>B<sub>2</sub> monolayer: a promising anode material offering high rate capability for Li-Ion and Na-Ion batteries**,
+Tao Bo, Peng-Fei Liu, Juping Xu, Junrong Zhang, Fangwei Wang, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2018, 20, 22168-22178.](https://doi.org/10.1039/C8CP03362E)
+
+1. **First-principles study of superconductivity in the two- and three-dimensional forms of PbTiSe<sub>2</sub>: suppressed charge density wave in 1T-TiSe<sub>2</sub>**,
+Bao-Tian Wang*, Peng-Fei Liu, Jing-Jing Zheng, Wen Yin, and Fangwei Wang,
+[Phys. Rev. B, 2018, 98, 014514.](https://doi.org/10.1103/PhysRevB.98.014514)
+
+1. **Face-centered cubic MoS<sub>2</sub>: a novel superconducting three-dimensional crystal more stable than layered T-MoS<sub>2</sub>**,
+Peng-Fei Liu, and Bao-Tian Wang*,
+[J. Mater. Chem. C, 2018, 6, 6046-6051.](https://doi.org/10.1039/C8TC01360H)
+
+1. **Superconductivity in two-dimensional phosphorus carbide (β<sub>0</sub>-PC)**,
+Bao-Tian Wang*, Peng-Fei Liu*, Tao Bo, Wen Yin, Olle Eriksson, Jijun Zhao, and Fangwei Wang,
+[Phys. Chem. Chem. Phys., 2018, 20, 12362-12367.](https://doi.org/10.1039/C8CP00697K)
+
+1. **Sr<sub>5</sub>ZnGa<sub>6</sub>S<sub>15</sub>: a new quaternary non-centrosymmetric semiconductor with a 3D framework structure displaying excellent nonlinear optical performance**,
+Hua Lin, Bing-Xuan Li, Hong Chen, Peng-Fei Liu, Li-Ming Wu, Xin-Tao Wu, and Qi-Long Zhu*,
+[Inorg. Chem. Front., 2018, 5, 1458-1462.](https://doi.org/10.1039/C8QI00322J)
+
+1. **Square transition-metal carbides MC<sub>6</sub> (M = Mo, W) as stable two-dimensional Dirac cone materials**,
+Peng-Fei Liu, Yang Wu, Tao Bo, Ling Hou, Juping Xu, Hui-jie Zhang, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2018, 20, 732-737.](https://doi.org/10.1039/C7CP07466B)
+
+1. **Experimental and theoretical studies on the NLO properties of two quaternary non-centrosymmetric chalcogenides: BaAg<sub>2</sub>GeS<sub>4</sub> and BaAg<sub>2</sub>SnS<sub>4</sub>**,
+Hong Chen, Peng-Fei Liu, Bing-Xuan Li, Hua Lin, Li-Ming Wu*, and Xin-Tao Wu,
+[Dalton Trans., 2018, 47, 429-437.](https://doi.org/10.1039/C7DT04178K)			
+
+1. **Synthesis and characterization of mixed alkali borophosphate with a new 1D chain: Li<sub>3</sub>Cs<sub>2</sub>BP<sub>4</sub>O<sub>14</sub>**,
+Muhammad Ali Khan, Yan-Yan Li, Shang-Xiong Huang-Fu, Hong Chen, Li-Jun Zhang, Peng-Fei Liu, Ju-Song Yu, Rui-Huan Duan, and Ling Chen*,
+[Inorg. Chim. Acta, 2017, 466, 174-179.](https://doi.org/10.1016/j.ica.2017.04.062)
+
+1. **Ba<sub>6</sub>Zn<sub>7</sub>Ga<sub>2</sub>S<sub>16</sub>: a wide band gap sulfide with phase-matchable infrared NLO properties**,
+Yan-Yan Li, Peng-Fei Liu, and Li-Ming Wu*,
+[Chem. Mater., 2017, 29, 5259-5266.](https://doi.org/10.1021/acs.chemmater.7b01321)
+
+1. **Two-dimensional hexagonal M<sub>3</sub>C<sub>2</sub> (M = Zn, Cd and Hg) monolayers: novel quantum spin Hall insulators and Dirac cone materials**,
+Peng-Fei Liu, Liujiang Zhou*, Sergei Tretiak, and Li-Ming Wu*,
+[J. Mater. Chem. C, 2017, 5, 9181-9187.](https://doi.org/10.1039/C7TC02739G)
+
+1. **Vanadium sulfide sub-microspheres: A new near-infrared-driven photocatalyst**,
+Yanli Zhou†, Peng-Fei Liu†, Fuyi Jiang, Jian Tian*, Hongzhi Cui*, and Jian Yang,
+[J. Colloid Interface Sci., 2017, 498, 442-448.](https://doi.org/10.1016/j.jcis.2017.03.081)
+
+1. **Two phosphates: noncentrosymmetric Cs<sub>6</sub>Mg<sub>6</sub>(PO<sub>3</sub>)<sub>18</sub> and centrosymmetric Cs<sub>2</sub>MgZn<sub>2</sub>(P<sub>2</sub>O<sub>7</sub>)<sub>2</sub>**,
+Yi-Gang Chen, Mei-Ling Xing, Peng-Fei Liu, Yao Guo*, Nan Yang, and Xian-Ming Zhang*,
+[Inorg. Chem., 2017, 56, 845-851.](https://doi.org/10.1021/acs.inorgchem.6b02303)
+
+1. **Two-dimensional hydrogenated molybdenum and tungsten dinitrides MN<sub>2</sub>H<sub>2</sub> (M = Mo, W) as novel quantum spin hall insulators with high stability**,
+Peng-Fei Liu, Liujiang Zhou*, Thomas Frauenheim, and Li-Ming Wu*,
+[Nanoscale, 2017, 9, 1007-1013.](https://doi.org/10.1039/C6NR08923B)
+
+1. **Tailored synthesis of nonlinear optical quaternary chalcohalides: Ba<sub>4</sub>Ge<sub>3</sub>S<sub>9</sub>Cl<sub>2</sub>, Ba<sub>4</sub>Si<sub>3</sub>Se<sub>9</sub>Cl<sub>2</sub> and Ba<sub>4</sub>Ge<sub>3</sub>Se<sub>9</sub>Cl<sub>2</sub>**,
+Peng-Fei Liu, Yan-Yan Li, Yu-Jun Zheng, Ju-Song Yu, Rui-Huan Duan, Hong Chen, Hua Lin, Ling Chen, and Li-Ming Wu*,
+[Dalton Trans., 2017, 46, 2715-2721.](https://doi.org/10.1039/C6DT04294E)
+
+1. **Syntheses and characterization of three new sulfides with large band gaps: acentric Ba<sub>4</sub>Ga<sub>4</sub>SnS<sub>12</sub>, centric Ba<sub>12</sub>Sn<sub>4</sub>S<sub>23</sub> and Ba<sub>7</sub>Sn<sub>3</sub>S<sub>13</sub>**,
+Rui-Huan Duan, Peng-Fei Liu, Hua Lin, Shang-Xiong Huangfu, and Li-Ming Wu*,
+[Dalton Trans., 2017, 46, 14771-14778.](https://doi.org/10.1039/C7DT03267F)
+
+1. **Centrosymmetric to noncentrosymmetric structural transformation of new quaternary selenides induced by isolated dimeric [Sn<sub>2</sub>Se<sub>4</sub>] units: from Ba<sub>8</sub>Ga<sub>2</sub>Sn<sub>7</sub>Se<sub>18</sub> to Ba<sub>10</sub>Ga<sub>2</sub>Sn<sub>9</sub>Se<sub>22</sub>**,
+Yan-Yan Li, Jin-Qiu Wang, Peng-Fei Liu, Hua Lin, Ling Chen, and Li-Ming Wu*,
+[RSC Adv., 2017, 7, 8082-8089.](https://doi.org/10.1039/C6RA27253C)
+
+1. **Benzoquinone-bridged Co<sub>2</sub> complexes with different magnetic anisotropy induced by solvent molecules**,
+Wenhai Cao, Xiaoquan Zhu, Peng-Fei Liu, Shaodong Su, Shengmin Hu, Yuehong Wen, Xintao Wu, and Tianlu Sheng*,
+[Dalton Trans., 2017, 46, 3435-3437.](https://doi.org/10.1039/C6DT04420D)
+
+1. **Ba<sub>6</sub>Li<sub>2</sub>CdSn<sub>4</sub>S<sub>16</sub>: lithium substitution simultaneously enhances band gap and SHG intensity**,
+Rui-Huan Duan, Peng-Fei Liu, Hua Lin, Yu-Jun Zheng, Ju-Song Yu, Xin-Tao Wu, Shang-Xiong Huang-Fu, and Ling Chen*,
+[J. Mater. Chem. C, 2017, 5, 7067-7074.](https://doi.org/10.1039/C7TC01811H)
+
+1. **Synthesis, crystal structure, physical properties and theoretical studies of the new ternary sulfide with closed cavities: CsYb<sub>7</sub>S<sub>11</sub>**,
+Yu-Jun Zheng, Peng-Fei Liu, Xin-Tao Wu, Li-Ming Wu*, and Hua Lin*,
+[Chinese J. Struc. Chem., 2017, 36, 1780-1790.](https://doi.org/10.14102/j.cnki.0254-5861.2011-1619)
+
+1. **Synthesis, crystal and electronic structures, and optical property of the chiral Y<sub>4</sub>InSbS<sub>9</sub>**,
+Yue Wang, Hua-Jun Zhao, Yong-Fang Shi, Peng-Fei Liu, Xiao-Chuan Zou, and Yan-Rong Ren,
+[Chinese J. Struc. Chem., 2017, 36, 1465-1471.](https://doi.org/10.14102/j.cnki.0254-5861.2011-1589)
+
+1. **KBa<sub>2</sub>(PO<sub>3</sub>)<sub>5</sub>: properties and comparison with isostructural polyphosphate compounds**,
+Ali Khan Muhammad, Rui-Huan Duan, Yan-Yan Li, Peng-Fei Liu, Hua Lin*, and Ling Chen*,
+[Chinese J. Struc. Chem., 2017, 36, 1283-1290.](https://doi.org/10.14102/j.cnki.0254-5861.2011-1510)
+
+1. **Ba<sub>13</sub>(BS<sub>3</sub>)<sub>6</sub>(SnS<sub>6</sub>): synthesis, crystal structure, electronic structure, and optical property</sub>**,
+Muhammad Ali Khan, Jin-Qing Wang, Peng-Fei Liu, Ling Chen*, and Yan-Yan Li*,
+[Chinese J. Struc. Chem., 2017, 36, 204-210.](https://doi.org/10.14102/j.cnki.0254-5861.2011-1277)
+
+1. **Syntheses, structures, and properties of sulfides constructed by SbS<sub>4</sub> teeter-totter polyhedra: Ba<sub>3</sub>La<sub>4</sub>Ga<sub>2</sub>Sb<sub>2</sub>S<sub>15</sub> and BaLa<sub>3</sub>GaSb<sub>2</sub>S<sub>10</sub>**,
+Rui-Huan Duan, Jin-Ni Shen, Chen-Sheng Lin, Peng-Fei Liu, Hua Lin, Shang-Xiong Huang-Fu, Hua-Jun Zhao, Muhammad Ali Khan, and Ling Chen*,
+[Inorg. Chem. Front., 2017, 4, 123-130.](https://doi.org/10.1039/C6QI00346J)			
+
+1. **Syntheses of six and twelve membered borophosphate ring structure with nonlinear optical activity**,
+Muhammad Ali Khan, Yan-Yan Li, Hua Lin, Li-Jun Zhang, Peng-Fei Liu, Hua-Jun Zhao, Rui-Huan Duan, Jin-Qiu Wang, and Ling Chen*,
+[J. Solid State Chem., 2016, 243, 259-266.](https://doi.org/10.1016/j.jssc.2016.05.030)
+
+1. **The effect of indium substitution on the structure and NLO properties of Ba<sub>6</sub>Cs<sub>2</sub>Ga<sub>10</sub>Se<sub>20</sub>Cl<sub>4</sub>**,
+Yan-Yan Li, Peng-Fei Liu, Hua Lin, Mei-Tian Wang, and Ling Chen*,
+[Inorg. Chem. Front., 2016, 3, 952-958.](https://doi.org/10.1039/C6QI00104A)
+
+1. **Synthesis, crystal structure, and optical property of zero-dimensional quaternary thioborate: Ba<sub>9</sub>B<sub>3</sub>GaS<sub>15</sub>**,
+Jin-Qiu Wang, Peng-Fei Liu, Yan-Yan Li*, and Li-Ming Wu,
+[Chinese J. Struc. Chem., 2016, 35, 1860-1867.](https://doi.org/10.14102/j.cnki.0254-5861.2011-1236)
+
+1. **Thermoelectric properties of Ag-doped In<sub>4</sub>Se<sub>2.95</sub> polycrystalline compounds**,
+Yan-Chun Chen, Peng-Fei Liu, Ling Chen, and Li-Ming Wu*,
+[Chinese J. Struc. Chem., 2016, 35, 1868-1875.](https://doi.org/10.14102/j.cnki.0254-5861.2011-1224)
+
+1. **CsBi<sub>4</sub>Te<sub>6</sub>: a new facile synthetic method and mid-temperature thermoelectric performance**,
+Hua Lin, Hong Chen, Ju-Song Yu, Yu-Jun Zheng, Peng-Fei Liu, Muhammad Ali Khan, and Li-Ming Wu*,
+[Dalton Trans., 2016, 45, 11931-11934.](https://doi.org/10.1039/C6DT02109C)
+
+1. **A graphene-like Mg<sub>3</sub>N<sub>2</sub> monolayer: high stability, desirable direct band gap and promising carrier mobility**,
+Peng-Fei Liu, Liujiang Zhou*, Thomas Frauenheim, and Li-Ming Wu*,
+[Phys. Chem. Chem. Phys., 2016, 18, 30379-30384.](https://doi.org/10.1039/C6CP06332B)
+
+1. **Li<sub>3</sub>Cs<sub>2</sub>M<sub>2</sub>B<sub>3</sub>P<sub>6</sub>O<sub>24</sub> (M = Pb, Sr): borophosphates with double six-membered ring of [BP<sub>2</sub>O<sub>2</sub>]<sup>3−</sup>**,
+Li-Jun Zhang, Yan-Yan Li, Peng-Fei Liu, and Ling Chen*,
+[Dalton Trans., 2016, 45, 7124-7130.](https://doi.org/10.1039/C6DT00498A)
+
+1. **Syntheses, structures, physical and electronic properties of quaternary semiconductors: Cs[RE<sub>9</sub>Cd<sub>4</sub>Se<sub>18</sub>] (RE = Tb-Tm)**,
+Hua Lin, Hong Chen, Peng-Fei Liu, Ju-Song Yu, Yu-Jun Zheng, Khan Muhammad Ali, Ling Chen, and Li-Ming Wu*,
+[Dalton Trans., 2016, 45, 5775-5782.](https://doi.org/10.1039/C6DT00193A)
+
+1. **(Cs<sub>6</sub>Cl)<sub>6</sub>Cs<sub>3</sub>[Ga<sub>53</sub>Se<sub>96</sub>]: a unique long period-stacking structure of layers made from Ga<sub>2</sub>Se<sub>6</sub> dimers via cis or trans intralayer linking**,
+Hua Lin, Hong Chen, Zi-Xiong Lin, Hua-Jun Zhao, Peng-Fei Liu, Ju-Song Yu, and Ling Chen*,
+[Inorg. Chem., 2016, 55, 1014-1016.](https://doi.org/10.1021/acs.inorgchem.5b02846)
+
+1. **New quantum spin Hall insulator in two-dimensional MoS<sub>2</sub> with periodically distributed pores**,
+Peng-Fei Liu, Liujiang Zhou*, Thomas Frauenheim, and Li-Ming Wu*,
+[Nanoscale, 2016, 8, 4915-4921.](https://doi.org/10.1039/C5NR08842A)
+
+1. **Strong IR NLO material Ba<sub>5</sub>MGa<sub>4</sub>Se<sub>10</sub>Cl<sub>2</sub>: highly improved laser damage threshold via dual ion substitution synergy**,
+Yan-Yan Li, Peng-Fei Liu, Lei Hu, Ling Chen, Hua Lin, Liu-Jiang Zhou, and Li-Ming Wu*,
+[Adv. Opt. Mater., 2015, 3, 957-966.](https://doi.org/10.1002/adom.201500038)
+
+1. **The roles of Yb-substitution on thermoelectric properties of In<sub>4-x</sub>Yb<sub>x</sub>Se<sub>3</sub>**,
+Su-Hua He, Peng-Fei Liu, Zi-Xiong Lin, Guo-Qiang Wang, Ling Chen, Zhao-Xing Wang, and Li-Ming Wu*,
+[Acta Mater., 2015, 101, 16-21.](https://doi.org/10.1016/j.actamat.2015.08.062)
+
+1. **Synthesis, crystal and electronic structure, and optical property of the pentanary chalcohalide Ba<sub>3</sub>KSb<sub>4</sub>S<sub>9</sub>Cl**,
+Hua-Jun Zhao* and Peng-Fei Liu,
+[J. Solid State Chem., 2015, 232, 37-41.](https://doi.org/10.1016/j.jssc.2015.08.047)
+
+1. **Thermoelectric properties of Ni-substituted polycrystalline In<sub>4</sub>Se<sub>3</sub>**,
+Su-Hua He, Zi-Xiong Lin, Muhammad Ali Khan, Peng-Fei Liu, Ling Chen, and Li-Ming Wu*,
+[Chinese J. Struc. Chem., 2015, 34, 1217-1223.](https://doi.org/10.14102/j.cnki.0254-5861.2011-0719)
