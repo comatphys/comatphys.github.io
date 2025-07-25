@@ -316,7 +316,7 @@ Qiang-Lin Wei, Xue-Liang Zhu, Peng-Fei Liu, Yi-Yuan Wu, Jiang-Jiang Ma, Yi-Bao L
 Peng-Fei Liu, Jingyu Li, Xin-Hai Tu, Hang Li, Junrong Zhang, Ping Zhang, Qiang Gao\*, and Bao-Tian Wang\*,
 [Phys. Rev. B, 2021, 103, 094306.](https://doi.org/10.1103/PhysRevB.103.094306)
 
-1. **Structural diversities in centrosymmetric [La<sub>8</sub>S<sub>4</sub>Cl<sub>8</sub>][La<sub>12</sub>S<sub>8</sub>Cl<sub>4</sub>][SbS<sub>3</sub>]<sub>8</sub> and non-centrosymmetric Ln<sub>8</sub>S<sub>4</sub>Cl<sub>8</sub>[SbS<sub>3</sub>]<sub>4</sub> (Ln = La and Ce): Syntheses, crystal and electronic structures, and optical properties**,
+1. **Structural diversities in centrosymmetric La<sub>8</sub>S<sub>4</sub>Cl<sub>8</sub>La<sub>12</sub>S<sub>8</sub>Cl<sub>4</sub>[SbS<sub>3</sub>]<sub>8</sub> and non-centrosymmetric Ln<sub>12</sub>S<sub>8</sub>Cl<sub>8</sub>[SbS<sub>3</sub>]<sub>4</sub> (Ln = La and Ce): Syntheses, crystal and electronic structures, and optical properties**,
 Hua-Jun Zhao\*, Peng-Fei Liu, and Li-Ming Wu\*,
 [Dalton Trans., 2021, 50, 2075-2082.](https://doi.org/10.1039/D0DT03953E)
 
