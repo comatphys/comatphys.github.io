@@ -30,7 +30,7 @@ Chi Zhang, Wenya Zhai, Jingyu Li, Jianbo Zhu, Zengfu Ou, Lanwei Li, Peng-Fei Liu
 
 1. **Strong low-energy rattling modes enabled liquid-like ultralow thermal conductivity in a well-ordered solid**,
 Peng-Fei Liu†, Xiyang Li†, Jingyu Li, Jianbo Zhu, Zhen Tong, Maiko Kofu, Masami Nirei, Juping Xu, Wen Yin, Fangwei Wang, Tianjiao Liang, Lin Xie, Yongsheng Zhang, David J. Singh, Jie Ma, Hua Lin\*, Junrong Zhang\*, Jiaqing He\*, and Bao-Tian Wang\*,
-[Natl. Sci. Rev., 2024, 12, nwae216.](https://doi.org/10.1093/nsr/nwae216)
+[Natl. Sci. Rev., 2024, 11, nwae216.](https://doi.org/10.1093/nsr/nwae216)
 
 1. **Anti-dissolving Fe<sub>2</sub>N<sub>6</sub> Sites Based Carbon Fiber Membranes for Binder-free Zn-air Batteries with a 200-Day Lifespan**,
 Zi an Xu, Jian Zhu, Jingze Shao, Yu Xia, Peng-Fei Liu, Guangshe Li, Rouxi Chen, Shaoqing Chen, Jiacheng Wang, Shi Chen, Fu Qiang Huang, and Hsing-Lin Wang\*,
