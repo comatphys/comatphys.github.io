@@ -96,7 +96,7 @@ Qianqian Wang，Xiaoyan Ma\*, Wei You, Pengcheng Ma, Ran Bi, Senyang Song, Fang 
 Jingyu Li† Xiyang Li†, Yongsheng Zhang, Jianbo Zhu, Enyue Zhao, Maiko Kofu, Kenji Nakajima, Maxim Avdeev, Peng-Fei Liu\*, Jiehe Sui, Huaizhou Zhao, Fangwei Wang\*, and Junrong Zhang\*,
 [Appl. Phys. Rev., 2024, 11, 011406.](https://doi.org/10.1063/5.0173680)
 
-1. **Tuning the Magneto-Seebeck effect in Co<sub>2</sub>FeSi/MgO/Co<sub>2</sub>FeSi heterostructure via optimized interfacial engineering**,
+1. **Tunable Magneto-Seebeck effect in Co<sub>2</sub>FeSi/MgO/Co<sub>2</sub>FeSi heterostructure via optimized interfacial engineering**,
 Jingyu Li†, Xianbiao Shi†, Yurong Jin, Le Ma, Liuming Wei, Chi Zhang, Hang Li\*, and Peng-Fei Liu\*,
 [Sci. China-Phys. Mech. Astron., 2024, 67, 237011.](https://doi.org/10.1007/s11433-023-2265-9)
 
