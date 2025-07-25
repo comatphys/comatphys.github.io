@@ -139,3 +139,79 @@ Xiaojia Tang*, Zhongyuan Du, Yufei Wang, Yimin Zhu*, Cise Unluer, and Peng-Fei L
 1. **Microscopic mechanisms of glasslike lattice thermal conductivity in tetragonal α-CsCu<sub>5</sub>Se<sub>3</sub>**,
 Qing-Yu Xie, Peng-Fei Liu, Jiang-Jiang Ma, Li-Ming Wu, Kai-Wang Zhang*, and Bao-Tian Wang*,
 [Phys. Rev. B, 2023, 108, 014302.](https://doi.org/10.1103/PhysRevB.108.014302)
+
+1. **Surface charge induced ferroelectric semiconductor-to-metal transition in quintuple-layer Al<sub>2</sub>S<sub>3</sub>**,
+Xinli Wang, Juping Xu, Peng-Fei Liu, Bao-Tian Wang, and Wen Yin*,
+[Phys. Rev. B, 2023, 107, 235307.](https://doi.org/10.1103/PhysRevB.107.235307)
+
+1. **Topological and superconducting properties in bilayer kagome metals YT<sub>6</sub>Sn<sub>6</sub> (T=V, Nb, Ta)**,
+Lan-Ting Shi†, Jian-Guo Si†, Akun Liang, Robin Turnbull, Peng-Fei Liu, and Bao-Tian Wang*,
+[Phys. Rev. B, 2023, 107, 174509.](https://doi.org/10.1103/PhysRevB.107.174509)
+
+1. **Size effect of ruthenium nanoparticles on water cracking properties with different crystal planes for boosting electrocatalytic hydrogen evolution**,
+Qikang Wua, Xiaobo Yang, Jing Yang, Peng-Fei Liu, Guixiang Ding, Zheng Chen*, and Guangfu Liao*,
+[J. Colloid Interface Sci., 2023, 644, 238-245.](https://doi.org/10.1016/j.jcis.2023.04.076)
+
+1. **The tunable interface charge transfer by polarization in two dimensional polar Al<sub>2</sub>O<sub>3</sub>/MoSO heterostructures**,
+Xinli Wang, Juping Xu, Peng-Fei Liu, Bao-Tian Wang, and Wen Yin*,
+[J. Mater. Chem. A, 2023, 11, 10628-10645.](https://doi.org/10.1039/D3TA01479G)
+
+1. **A comprehensive DFT study of the stabilization of methyl-mercury over Ag nanoparticles**,
+Jing Yang*, Ji-Kang Zhao, Qing-An Sun, Yu Fan, Peng-Fei Liu，and Fen Qiao*,
+[Mater. Today Commun., 2023, 35, 105933.](https://doi.org/10.1016/j.mtcomm.2023.105933)
+
+1. **Computational Studies on Functionalized Janus MXenes MMʹCT<sub>2</sub> (MMʹCT<sub>2</sub>, M, Mʹ = Zr, Ti, Hf, M ≠ Mʹ, ; T = -O, -F, -OH): Photoelectronic Properties and Potential Photocatalytic Activities**,
+Kuangwei Xiong*, Ziqiang Cheng, Jianpeng Liu, Peng-Fei Liu, and Zhenfa Zi,
+[RSC Adv., 2023, 13, 7972-7979.](https://doi.org/10.1039/D3RA00303E)
+
+1. **High‐Density Atomic Fe–N4/C in Tubular, Biomass‐Derived, Nitrogen‐Rich Porous Carbon as Air‐Electrodes for Flexible Zn–Air Batteries**,
+Chuanlai Jiao†, Zian Xu†, Jingze Shao†, Yu Xia, Jochi Tseng, Guangyuan Ren, Nianji Zhang, Pengfei Liu, Chongxuan Liu, Guangshe Li, Shi Chen, Shaoqing Chen*, and Hsing-Lin Wang*,
+[Adv. Funct. Mater., 2023, 2213897.](https://doi.org/10.1002/adfm.202213897)
+
+1. **Improving the intrinsic conductivity of δ-MnO<sub>2</sub> by indium doping for high-performance neutral aqueous sodium-ion supercapacitors with commercial-level mass-loading**,
+Borui Li, Yanfang Chu, Bin Xie, Yuchen Sun, Lin Zhang, Lei Zhao, Hongmei Zhao, Peng-Fei Liu, and Junjie He*,
+[J. Mater. Chem. A, 2023, 11, 2133-2144.](https://doi.org/10.1039/D2TA08638G)
+
+1. **Effects of Ce addition on the oxidation behavior of Ni-28W-6Cr superalloy**,
+Shulin Liu, Xiang-Xi Ye*, Chen Ming*, Shuai Yan, Yanyan Jia, Huaican Chen, Peng-Fei Liu, Jifeng Li, and Xingtai Zhou*,
+[J. Alloys Compd., 2023, 933, 167725.](https://doi.org/10.1016/j.jallcom.2022.167725)
+
+1. **Hydrogen production performance and theoretical mechanism analysis of chain-like ZnO/ZnS heterojunction**,
+Fen Qiao*, Wenjie Liu, Jing Yang, Jiaren Yuan, Kaiyue Sun, Peng-Fei Liu,
+[Int. J. Hydrogen Energ., 2023, 48, 953-963.](https://doi.org/10.1016/j.ijhydene.2022.09.246)
+
+1. **Superconductivity and topological properties in the kagome metals CsM<sub>3</sub>Te<sub>5</sub> (M=Ti, Zr, Hf): A first-principles investigation**,
+Jian-Guo Si†, Lan-Ting Shi†, Peng-Fei Liu, Ping Zhang, and Bao-Tian Wang*,
+[Phys. Rev. B, 2022, 106, 214527.](https://doi.org/10.1103/PhysRevB.106.214527)
+
+1. **A study of two-dimensional single atom-supported MXenes as hydrogen evolution reaction catalysts using DFT and machine learning**,
+Hongxing Liang*, Peng-Fei Liu*, Min Xu, and Edouard Asselin,
+[Int. J. Quantum Chem., 2022, 123, e27055.](https://doi.org/10.1002/qua.27055)
+
+1. **Synergistic Defect Engineering for Improving n-type NbFeSb Thermoelectric Performance through High-Throughput Computations**,
+Jingyu Li†, Jianbo Zhu†, Zhuoyang Ti, Wenya Zhai, Liuming Wei, Chi Zhang, Peng-Fei Liu*, and Yongsheng Zhang*,
+[J. Mater. Chem. A, 2022, 10, 24598-24610.](https://doi.org/10.1039/D2TA07142H)
+
+1. **Ultralow thermal conductivity and anisotropy thermoelectric performance in layered materials LaMOCh (M=Cu, Ag; Ch=S, Se)**,
+Jiang-Jiang Ma†, Qing-Yi Liu†, Peng-Fei Liu, Ping Zhang, Biplab Sanyal, Tao Ouyang*, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2022, 24, 21261-21269.](https://doi.org/10.1039/D2CP02067J)
+
+1. **Superconductivity and topological states in hexagonal TaC and NbC**,
+Xiang-Gui Li, Jian-Guo Si*, Lan-Ting Shi, Peng-Fei Liu, Ping Zhang, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2022, 24, 18419-18426.](https://doi.org/10.1039/D2CP02403A)
+
+1. **Fluff spherical Co–Ni<sub>3</sub>S<sub>2</sub>/NF for enhanced hydrogen evolution**,
+Kaiyue Sun, Fen Qiao*, Jing Yang, Haitao Li*, Yi Cui, and Peng-Fei Liu,
+[Int. J. Hydrogen Energ., 2022, 47, 27986-27995.](https://doi.org/10.1016/j.ijhydene.2022.06.143)
+
+1. **Two-gap superconductivity in a Janus MoSH monolayer**,
+Peng-Fei Liu†, Feipeng Zheng†, Jingyu Li, Jian-Guo Si, Liuming Wei, Junrong Zhang, and Bao-Tian Wang*,
+[Phys. Rev. B, 2022, 105, 245420.](https://doi.org/10.1103/PhysRevB.105.245420)
+
+1. **Ta<sub>4</sub>SiTe<sub>4</sub>: A possible one-dimensional topological insulator**,
+Siyuan Liu, Huabing Yin*, David J. Singh, and Peng-Fei Liu*,
+[Phys. Rev. B, 2022, 105, 195419.](https://doi.org/10.1103/PhysRevB.105.195419)
+
+1. **Monolayer SnI<sub>2</sub>: an excellent p-type thermoelectric material with ultralow lattice thermal conductivity**,
+Qing-Yu Xie, Peng-Fei Liu, Jiang-Jiang Ma, Fang-Guang Kuang, Kai-wang Zhang*, and Bao-Tian Wang*,
+[Materials, 2022, 15, 3147.](https://doi.org/10.3390/ma15093147)
