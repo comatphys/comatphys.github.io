@@ -255,3 +255,183 @@ Lei Wan, Ziang Xu, Peican Wang, Peng-Fei Liu, Qin Xu, and Baoguo Wang*,
 1. **Type-II Dirac cones and electron-phonon interaction in monolayer biphenylene from first-principles calculations**,
 Peng-Fei Liu, Jingyu Li, Chi Zhang, Xin-Hai Tu, Junrong Zhang, Ping Zhang, Bao-Tian Wang*, and David J. Singh,
 [Phys. Rev. B, 2021, 104, 235422.](https://doi.org/10.1103/PhysRevB.104.235422)
+
+1. **Computational study of the curvature-promoted anchoring of transition metals for water splitting**,
+Weiwei Liu†, Youchao Kong*†, Bo Wang, Xiaoshuang Li*, Peng-Fei Liu, Alain R. Puente Santiago, and Tianwei He,
+[Nanomaterials, 2021, 11, 3173.](https://doi.org/10.3390/nano11123173)
+
+1. **Neutron scattering study of the kagome metal Sc<sub>3</sub>Mn<sub>3</sub>Al<sub>7</sub>Si<sub>5</sub>**,
+Xiyang Li*, ‪Dalmau Reig-i-Plessis, Peng-Fei Liu, Shan Wu, Bao-Tian Wang, Alannah Hallas, M. B. Stone, ‪Collin Broholm, and Meigan C. Aronson,
+[Phys. Rev. B, 2021, 104, 134305.](https://doi.org/10.1103/PhysRevB.104.134305)
+
+1. **Beyond the Limit of Goldschmidt Tolerance Factor: Crystal Surface Engineering to Boost the α-Phase Stability of Formamidinium-Only Hybrid Inorganic–Organic Perovskites**,
+Junjie He*, Yanfang Chu, Yuchen Sun, Rui Zhang, Jing Li*, Lei Zhao, Hongmei Zhao, Peng-Fei Liu, and Song Li*,
+[Sol. RRL, 2021, 5, 2100188.](https://doi.org/10.1002/solr.202100188)
+
+1. **Role of the Interfacial Effect between the Substrate and Co(OH)<sub>2</sub> Layer in Electrochemical Oxygen Evolution**,
+Peican Wang, Runzhi Wang, Qin Xu, Ziang Xu, Lei Wan, Yuqun Lin, Peng-Fei Liu, and Baoguo Wang*,
+[ACS Appl. Energy Mater., 2021, 4, 9, 9487-9497.](https://doi.org/10.1021/acsaem.1c01671)
+
+1. **A novel Mn<sup>4+</sup>-activated layered oxide-fluoride perovskite-type KNaMoO<sub>2</sub>F<sub>4</sub> red phosphor for wide gamut warm white light-emitting diodes backlight**,
+Jiao Wu, Bo Wang*, Zhiyuan Liu, Kang Zhang, Xiaoshuang Li, Jianhui Huang, Peng-Fei Liu, and Qingguang Zeng*,
+[Dalton Trans., 2021, 50, 11189-11196.](https://doi.org/10.1039/D1DT01863A)
+
+1. **Significant enhancement of VOCs conversion by facile mechanochemistry coupled MnO<sub>2</sub> modified fly ash: Mechanism and application**,
+Jun Liu, Nan Shi, Tao Wang*, Jing Yang, Peng-Fei Liu, Yongsheng Zhang, and Wei-Ping Pan,
+[Fuel, 2021, 304, 121443.](https://doi.org/10.1016/j.fuel.2021.121443)
+
+1. **Octahedral rotations trigger electronic and magnetic transitions in Strontium manganate under volume expansion**,
+Xujing Li, Huaican Chen, Peng-Fei Liu, Juping Xu, Bao-Tian Wang*, and Wen Yin*,
+[J. Phys.: Condens. Matter,  2021, 33, 365501.](https://doi.org/10.1088/1361-648x/ac0e6d)
+
+1. **Novel two-dimensional PC<sub>5</sub> with the Dirac cone and edge size dependence**,
+Ling Shang, Peng-Fei Liu, Heng Gao, Wei Wu, Yin Wang, Zhibin Gao, Bao-Tian Wang*, and Wei Ren*,
+[Phys. Status Solidi Rapid Res. Lett., 2021, 16, 2100203.](https://doi.org/10.1002/pssr.202100203)
+
+1. **Anharmonicity and ultralow thermal conductivity in layered Oxychalcogenides BiAgOCh (Ch=S, Se, and Te)**,
+Jingyu Li†, Wenya Zhai†, Chi Zhang, Yuli Yan*, Peng-Fei Liu*, and Gui Yang,
+[Mater. Adv., 2021, 2, 4876-4882.](https://doi.org/10.1039/D1MA00375E)
+
+1. **A<sub>3</sub>Mn<sub>2</sub>Sb<sub>3</sub>S<sub>8</sub> (A = K, Rb): A new type of multifunctional infrared nonlinear optical materials based on unique three-dimensional open frameworks**,
+Yu Xiao, Man-Man Chen, Ya-Ying Shen, Peng-Fei Liu, Hua Lin*, and Yi Liu*,
+[Inorg. Chem. Front., 2021, 8, 2835-2843.](https://doi.org/10.1039/D1QI00214G)
+
+1. **Quadruple-layer group-IV tellurides: Low thermal conductivity and high performance two-dimensional thermoelectric materials**,
+Qiang-Lin Wei, Xue-Liang Zhu, Peng-Fei Liu, Yi-Yuan Wu, Jiang-Jiang Ma, Yi-Bao Liu, Yu-Hong Li*, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2021, 23, 6388-6396.](https://doi.org/10.1039/D1CP00469G)
+
+1. **First-Principles Prediction of Ideal Type-II Weyl Phonons in Wurtzite ZnSe**,
+Peng-Fei Liu, Jingyu Li, Xin-Hai Tu, Hang Li, Junrong Zhang, Ping Zhang, Qiang Gao*, and Bao-Tian Wang*,
+[Phys. Rev. B, 2021, 103, 094306.](https://doi.org/10.1103/PhysRevB.103.094306)
+
+1. **Structural diversities in centrosymmetric [La<sub>8</sub>S<sub>4</sub>Cl<sub>8</sub>][La<sub>12</sub>S<sub>8</sub>Cl<sub>4</sub>][SbS<sub>3</sub>]<sub>8</sub> and non-centrosymmetric Ln<sub>8</sub>S<sub>4</sub>Cl<sub>8</sub>[SbS<sub>3</sub>]<sub>4</sub> (Ln = La and Ce): Syntheses, crystal and electronic structures, and optical properties**,
+Hua-Jun Zhao*, Peng-Fei Liu, and Li-Ming Wu*,
+[Dalton Trans., 2021, 50, 2075-2082.](https://doi.org/10.1039/D0DT03953E)
+
+1. **Ultralow thermal conductivity in a quaternary semiconducting chalcogenide Cs<sub>4</sub>[Ho<sub>26</sub>Cd<sub>7</sub>Se<sub>48</sub>] with an unprecedented closed-cavity architecture**,
+Hong Chen, Peng-Fei Liu, Hua Lin*, and Xin-Tao Wu*,
+[Inorg. Chem. Front., 2021, 8, 1049-1055.](https://doi.org/10.1039/D0QI01240H)
+
+1. **Ba<sub>3</sub>[LiSbS<sub>2</sub>(S<sub>2</sub>)<sub>2</sub>Cl<sub>2</sub>]: The first zero-dimensional (0D) lithium metal thioantimonate featuring molecular anions of [LiSbS<sub>2</sub>(S<sub>2</sub>)<sub>2</sub>Cl<sub>2</sub>]<sup>6–</sup>**,
+Hua-Jun Zhao* and Peng-Fei Liu,
+[J. Solid State Chem., 2021, 294, 121873.](https://doi.org/10.1016/j.jssc.2020.121873)
+
+1. **Theoretical insights into heterogeneous single-atom Fe1 catalysts supported by graphene-based substrates for water splitting**,
+Jing Yang*, Yu Fan, and Peng-Fei Liu,
+[Appl. Surf. Sci., 2021, 540, 148245.](https://doi.org/10.1016/j.apsusc.2020.148245)
+
+1. **Surface-structure Sensitive Chemical Diffusivity and Reactivity of CO Adsorbates on Noble Metal Electrocatalysts**,
+Dongyan Shen, Yong Liu, Guangxing Yang*, Hao Yu, Peng-Fei Liu, and Feng Peng*,
+[Appl. Catal. B-Environ., 2021, 281, 119522.](https://doi.org/10.1016/j.apcatb.2020.119522)
+
+1. **A new type of novel salt-inclusion chalcogenides with ultralow thermal conductivity**,
+Hong Chen, Peng-Fei Liu, Hua Lin*, and Xin-Tao Wu*,
+'Chem. Commun., 2020, 56, 15149-15152.](https://doi.org/10.1039/D0CC06306A)
+
+1. **Significant enhancement of the thermoelectric properties of CaP<sub>3</sub> through reducing dimensionality**,
+Xue-Liang Zhu, Peng-Fei Liu, Yiyuan Wu, Ping Zhang, Guofeng Xie*, and Bao-Tian Wang*,
+[Mater. Adv., 2020, 1, 3322-3332.](https://doi.org/10.1039/D0MA00603C)
+
+1. **Electron-phonon coupling superconductivity in two-dimensional orthorhombic MB<sub>6</sub> (M = Mg, Ca, Ti, Y) and hexagonal MB<sub>6</sub> (M = Mg, Ca, Sc, Ti)**,
+Tao Bo, Peng-Fei Liu, Luo Yan, and Bao-Tian Wang*,
+[Phys. Rev. Materials, 2020, 4, 114802.](https://doi.org/10.1103/PhysRevMaterials.4.114802)
+
+1. **Structural, electronic and optical properties of S-doped, Sc-doped and Sc-S co-doped anatase TiO<sub>2</sub>: a DFT+U calculation**,
+Kuangwei Xiong*, Qianjun Zheng, Ziqiang Cheng, and Peng-Fei Liu,
+[Eur. Phys. J. B, 2020, 93, 201.](https://doi.org/10.1140/epjb/e2020-10368-x)
+
+1. ** Prediction of superconductivity and topological aspects in single-layer β-Bi<sub>2</sub>Pd**,
+Peng-Fei Liu†, Jingyu Li†, Xin-Hai Tu, Huabing Yin, Baisheng Sa, Junrong Zhang, David J. Singh*, and Bao-Tian Wang*,
+[Phys. Rev. B, 2020, 102, 155406.](https://doi.org/10.1103/PhysRevB.102.155406)
+
+1. **First-principles investigation on the transport properties of quaternary CoFeRGa (R=Ti, V, Cr, Mn, Cu, and Nb) Heusler compounds**,
+Beibei Shi, Jingyu Li, Chi Zhang, Wenya Zhai, Shujuan Jiang, Wenxuan Wang, Dong Chen, Yuli Yan, Guangbiao Zhang*, and Peng-Fei Liu*,
+[Phys. Chem. Chem. Phys., 2020, 22, 23185-23194.](https://doi.org/10.1039/D0CP03226C)
+
+1. **Salt-Inclusion Chalcogenide [Ba<sub>4</sub>Cl<sub>2</sub>][ZnGa<sub>4</sub>S<sub>10</sub>]: Rational Design of the IR Nonlinear Optical Material with Superior Comprehensive Performance Derived from AgGaS<sub>2</sub>**,
+Hong Chen†, Yan-Yan Li†, Bingxuan Li, Peng-Fei Liu, Hua Lin*, Qi-Long Zhu*, and Xin-Tao Wu*,
+[Chem. Mater., 2020, 32, 8012-8019.](https://doi.org/10.1021/acs.chemmater.0c03008)
+
+1. **Multi‐Directional Intrinsic Piezoelectricity of 2D Metal Chalcogen‐Diphosphate ABP<sub>2</sub>X<sub>6</sub> Monolayers**,
+Shujuan Jiang, Huabing Yin*, Jingyu Li, Lu Liu, Xiaobo Shi, Yuli Yan, Chang Liu, Guang-Ping Zheng*, and Peng-Fei Liu*,
+[Phys. Status Solidi Rapid Res. Lett., 2020, 14, 2000321.](https://doi.org/10.1002/pssr.202000321)
+
+1. **Ternary multicomponent Ba/Mg/Si compounds with inherent bonding hierarchy and rattling Ba atoms toward ultralow lattice thermal conductivity**,
+Jingyu Li†, Jinfeng Yang†, Beibei Shi, Wenya Zhai, Chi Zhang, Yuli Yan*, and Peng-Fei Liu*,
+[Phys. Chem. Chem. Phys., 2020, 22, 18556-18561.](https://doi.org/10.1039/D0CP02792H)
+
+1. **Hydrodeoxygenation of phenolic compounds and raw lignin-oil over bimetallic RuNi catalyst: an experimental and modeling study focusing on absorption properties**,
+Rongxuan Li, Jiajian Qiu, Hongquan Chen, Riyang Shu*, Ying Chen, Yong Liu*, and Peng-Fei Liu,
+[Fuel, 2020, 281, 118758.](https://doi.org/10.1016/j.fuel.2020.118758)
+
+1. **Controlled synthesis of bifunctional NiCo<sub>2</sub>O<sub>4</sub>@FeNi LDH core-shell nanoarray air electrodes for rechargeable zinc-air batteries**,
+Lei Wan, Zeheng Zhao, Xiaoxia Chen, Peng-Fei Liu, Peican Wang, Ziang Xu, Yuqun Lin, and Baoguo Wang*,
+[ACS Sustainable Chem. Eng., 2020, 8, 30, 11079-11087.](https://doi.org/10.1021/acssuschemeng.0c00442)
+
+1. **Enhanced absorption properties of bimetallic RuCo catalyst for the hydrodeoxygenation of phenolic compounds and raw lignin-oil**,
+Riyang Shu, Rongxuan Li, Yong Liu*, Chao Wang, Peng-Fei Liu, and Ying Chen*,
+[Chem. Eng. Sci., 2020, 227, 115920.](https://doi.org/10.1016/j.ces.2020.115920)
+
+1. **Theoretical dissection of superconductivity in two dimensional honeycomb borophene oxide B<sub>2</sub>O crystal with a high stability**,
+Luo Yan, Peng-Fei Liu, Hengtao Li, Yong Tang, Junjie He, Xingyong Huang, Liujiang Zhou*, and Bao-Tian Wang*,
+[npj Comput. Mater., 2020, 6, 94.](https://doi.org/10.1038/s41524-020-00365-9)
+
+1. **Lattice vibrational modes and phonon thermal conductivity of single-layer GaGeTe**,
+Jingyu Li†, Peng-Fei Liu†, Chi Zhang, Xiaobo Shi, Shujuan Jiang, Weizhen Chen, Huabing Yin*, and Bao-Tian Wang*,
+[J. Materiomics, 2020, 6, 723-728.](https://doi.org/10.1016/j.jmat.2020.04.005)
+
+1. **Complete spin gapless semiconductivity in equiatomic quarternary Heusler material TiZrMnAl**,
+Liyu Hao†, Puxin Cheng†, Rabah Khenata, Peng-Fei Liu, Xiaotian Wang*, and Tie Yang*,
+[J. Magn. Magn. Mater., 2020, 508, 166880.](https://doi.org/10.1016/j.jmmm.2020.166880)
+
+1. **Solvent-free hydrodeoxygenation of bio-lipids into renewable alkanes over NiW bimetallic catalyst under mild conditions**,
+Shiyou Xing†, Yong Liu†, Xiaochun Liu, Ming Li, Junying Fu, Peng-Fei Liu, Pengmei Lv*, and Zhongming,
+[Appl. Catal. B-Environ., 2020, 269, 118718.](https://doi.org/10.1016/j.apcatb.2020.118718)
+
+1. **Evidence for ferroelectricity of all-inorganic perovskite CsPbBr<sub>3</sub> quantum dots**,
+Xia Li, Shaoqing Chen, Peng-Fei Liu, Yuelan Zhang, Yan Chen, Hsing-Lin Wang*, Hongming Yuan*, and Shouhua Feng,
+[J. Am. Chem. Soc., 2020, 142, 7, 3316-3320.](https://doi.org/10.1021/jacs.9b12254)
+
+1. **Ultralow thermal conductivity from transverse acoustic phonon suppression in distorted crystalline α-MgAgSb**,
+Xiyang Li†, Peng-Fei Liu†, Enyue Zhao, Zhigang Zhang, Tatiana Guidi, Manh Duc Le, Maxim Avdeev, Kazutaka Ikeda, Toshiya Otomo, Maiko Kofu, Kenji Nakajima, Jie Chen, Lunhua He, Yang Ren, Xun-Li Wang, Bao-Tian Wang*, Zhifeng Ren*, Huaizhou Zhao*, and Fangwei Wang*,
+[Nat. Commun., 2020, 11, 942.](https://doi.org/10.1038/s41467-020-14772-5)
+
+1. **High thermoelectric performance of new two-dimensional IV-VI compounds: a first-principles study**,
+Xue-Liang Zhu, Cai-Hong Hou, Ping Zhang, Heng-Yu Yang, Peng-Fei Liu*, Guofeng Xie*, and Bao-Tian Wang*,
+[J. Phys. Chem. C, 2020, 124, 1812–1819.](https://doi.org/10.1021/acs.jpcc.9b09787)
+
+1. **Correlation between microstructure and dissolution property of magnesium hydroxide synthesized via magnesia hydroxylation: effect of hydration agents**,
+Xiao-Jia Tang, Zhong-Yuan Du, Yi-Min Zhu*, Peng-Fei Liu, Xiao-Yi Li, Xue-Lu Xu, Yu-Zhe Zhao,	and Hai-Bo Kuang*,
+[J. Clean. Prod., 2020, 249, 119371.](https://doi.org/10.1016/j.jclepro.2019.119371)
+
+1. **Superconductivity in predicted two dimensional XB<sub>6</sub> (X = Ga, In)**,
+Luo Yan, Tao Bo, Peng-Fei Liu, Liujiang Zhou, Junrong Zhang, Minghua Tang, Yongguang Xiao*, and Bao-Tian Wang*,
+[J. Mater. Chem. C, 2020, 8, 1704-1714.](https://doi.org/10.1039/C9TC05783H)
+
+1. **Effects of structure and electronic properties of spinel ferrites on their emissivity in middle and short wavebands**,
+Jian Zhang, Simei He, Yan Ma, Bo Jiang, Peng-Fei Liu, Huanmei Yuan, Zefei Zhang, and Hao Bai*,
+[J. Solid State Chem., 2020, 282, 121089.](https://doi.org/10.1016/j.jssc.2019.121089)
+
+1. **Trap distribution and photo-stimulated luminescence in LaSrAl<sub>3</sub>O<sub>7</sub>: Eu<sup>2+</sup> long-lasting phosphors for optical data storage**,
+Bo Wang*, Hongwei Wang, Jianhui Huang, Jiangcong Zhou*, and Peng-Fei Liu,
+[J. Am. Ceram. Soc., 2020, 103, 315-323.](https://doi.org/10.1111/jace.16736)
+
+1. **Theoretical study of the electronic, magnetic, mechanical and thermodynamic properties of the spin gapless semiconductor CoFeMnSi**,
+Xingwen Tan*, Jiaxue You, Peng-Fei Liu, and Yanfeng Wang,
+[Crystals, 2019, 9, 678.](https://doi.org/10.3390/cryst9120678)
+
+1. **The effect of CuFe<sub>2</sub>O<sub>4</sub> ferrite phase evolution on 3-5 μm waveband emissivity**,
+Jian Zhang, Ye Han*, Fei Wang, Peng-Fei Liu, Xu Zhang, Huanmei Yuan, and Zefei Zhang,
+[Ceram. Int., 2019, 46, 7694-7702.](https://doi.org/10.1016/j.ceramint.2019.11.272)
+
+1. **Monolayer SnP<sub>3</sub>: an excellent p-type thermoelectric material**,
+Xue-Liang Zhu, Peng-Fei Liu, Junrong Zhang, Ping Zhang, Wu-Xing Zhou, Guofeng Xie*, and Bao-Tian Wang*,
+[Nanoscale, 2019, 11, 19923-19932.](https://doi.org/10.1039/C9NR04726C)
+
+1. **Electron-rich ruthenium on nitrogen-doped carbons promoting levulinic acid hydrogenation to γ-valerolactone: effect of metal-support interaction**,
+Zhen Meng†, Yong Liu†, Guangxing Yang*, Yonghai Cao, Hongjuan Wang, Feng Peng, Peng-Fei Liu, and Hao Yu*,
+[ACS Sustainable Chem. Eng., 2019, 7, 16501-16510.](https://doi.org/10.1021/acssuschemeng.9b03742)
+
+1. **Emergence of superconductivity in a Dirac nodal-line Cu<sub>2</sub>Si monolayer: ab initio calculations**,
+Luo Yan†, Peng-Fei Liu†, Tao Bo, Junrong Zhang, Minghua Tang, Yongguang Xiao*, and Bao-Tian Wang*,
+[J. Mater. Chem. C, 2019, 7, 10926-10932.](https://doi.org/10.1039/C9TC03740C)
