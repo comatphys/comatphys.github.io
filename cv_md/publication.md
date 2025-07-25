@@ -27,3 +27,75 @@ Xinli Wang, Xianbiao Shi, Peng-Fei Liu, Bao-Tian Wang, and Wen Yin*,
 1. **Lattice thermal conductivity reducing in Ca<sub>3</sub>AlSb<sub>3</sub> and Ca<sub>5</sub>Al<sub>2</sub>Sb<sub>6</sub> by manipulating the covalent tetrahedral chain**,
 Chi Zhang, Wenya Zhai, Jingyu Li, Jianbo Zhu, Zengfu Ou, Lanwei Li, Peng-Fei Liu, Xiaobing Liu, Yuli Yan, and Yongsheng Zhang*,
 [Phys. Chem. Chem. Phys. 2024, 26, 28595-28605.](https://doi.org/10.1039/D4CP03574G)
+
+1. **Strong low-energy rattling modes enabled liquid-like ultralow thermal conductivity in a well-ordered solid**,
+Peng-Fei Liu†, Xiyang Li†, Jingyu Li, Jianbo Zhu, Zhen Tong, Maiko Kofu, Masami Nirei, Juping Xu, Wen Yin, Fangwei Wang, Tianjiao Liang, Lin Xie, Yongsheng Zhang, David J. Singh, Jie Ma, Hua Lin*, Junrong Zhang*, Jiaqing He*, and Bao-Tian Wang*,
+[Natl. Sci. Rev., 2024, 12, nwae216.](https://doi.org/10.1093/nsr/nwae216)
+1. 
+**Anti-dissolving Fe<sub>2</sub>N<sub>6</sub> Sites Based Carbon Fiber Membranes for Binder-free Zn-air Batteries with a 200-Day Lifespan**,
+Zi an Xu, Jian Zhu, Jingze Shao, Yu Xia, Peng-Fei Liu, Guangshe Li, Rouxi Chen, Shaoqing Chen, Jiacheng Wang, Shi Chen, Fu Qiang Huang, and Hsing-Lin Wang*,
+[Energy Environ. Sci., 2024, 45, 101454.](https://doi.org/10.1039/D4EE03148B)
+
+1. **Phononic and electronic properties of the superconducting topological metal ThMo<sub>2</sub>Si<sub>2</sub>C**,
+Xian-Biao Shi†, Jingyu Li†, Jian-Guo Si, Lan-Ting Shi, Peng-Fei Liu, and Bao-Tian Wang*,
+[Phys. Rev. B, 2024, 110, 075129.](https://doi.org/10.1103/PhysRevB.110.075129)
+
+1. **Sm<sup>3+</sup> as effective deactivator for enhanced ~3 μm laser emission in Er,Sm:SrLaAlO<sub>4</sub> crystal**,
+Yiyang Lin, Ling Liang, Yijian Sun*, Jian Cheng, Yeqing Wang*, Pengfei Liu, Wei Wang, Jianhui Huang, Guoliang Gong, and Herui Wen,
+[Spectrochim. Acta A Mol. Biomol. Spectrosc., 2024, 322, 124717.](https://doi.org/10.1016/j.saa.2024.124717)
+
+1. **Superconductivity of VSe<sub>2</sub> under pressure and charge doping: Suppressed charge density wave**,
+Xin-Peng Fu, Zhen-Guo Fu*, Chong-Jie Mo, Bao-Tian Wang, Peng-Fei Liu, Guo-Jun Zhao, Ning Hao, and Ping Zhang*,
+[Phys. Rev. B, 2024, 110, 014501.](https://doi.org/10.1103/PhysRevB.110.014501)
+
+1. **Ultralow Two-Channel Thermal Conductivity in Aikinite**,
+Jingyu Li, Liuming Wei, Zhuoyang Ti, Jianbo Zhu, Wenya Zhai, Hang Li*, and Peng-Fei Liu*,
+[Mater. Today Phys., 2024, 45, 101454.](https://doi.org/10.1016/j.mtphys.2024.101454)
+
+1. **Machine learning accelerated discovery of superconducting two-dimensional Janus transition metal sulfhydrates**,
+Jingyu Li, Liuming Wei, Xianbiao Shi, Lanting Shi, Jianguo Si, Peng-Fei Liu*, and Bao-Tian Wang*,
+[Phys. Rev. B, 2024, 109, 174516.](https://doi.org/10.1021/jacs.4c01770)
+
+1. **Synthesis of Metal-Nitrogen-Carbon Electrocatalysts with Atomically Regulated Nitrogen-doped Polycyclic Aromatic Hydrocarbons**,
+Shaoqing Chen†, Hui-Min Yan†, Jochi Tseng†, Shijie Ge, Xia Li, Lin Xie, Zian Xu, Peng-Fei Liu, Chongxuan Liu, Jie Zeng, Yang-Gang Wang*, Hsing-Lin Wang*,
+[J. Am. Chem. Soc., 2024, 146, 13703–13708.](https://doi.org/10.1021/jacs.4c01770)
+
+1. **Surface-induced a Local Electronegative Field to Engineer K-enriched Microenvironment for High-Performance Alkaline Hydrogen Evolution Reaction**,
+Jie Chena*, Zhihuai Lin, Peng-Fei Liu, Hongze Cai, Jianpeng Zeng, Fengying Zheng, Yancai Li*, Shunxing Li*,
+[Sep. Purif. Technol., 2024, 347, 127538.](https://doi.org/10.1016/j.seppur.2024.127538)
+
+1. **Entropy Engineering Enabled Atomically Dispersed Cu Doping Leading to Exceptionally High Thermoelectric Figure of Merit in n-type Lead Chalcogenides**,
+Ziling Yuan†, Mengyue Wu†, Shuai Han†, Peng-Fei Liu, Zhenhua Ge, Bangzhi Ge, Menghua Zhu, Yadong Xu, Wanqi Jie, Dongyao Zhao, Bingchao Yang, Yongsheng Zhang, Ming Liu, Min Zhu, Chao Li*, Yuan Yu*, Chongjian Zhou*,
+[Energy Environ. Sci., 2024, 17, 2921-2934.](https://doi.org/10.1039/D4EE00691G)
+
+1. **Electron-phonon driven charge density wave and superconductivity in a 1T-TaSi<sub>2</sub>N<sub>4</sub> monolayer**,
+Luo Yan, Ruiqi Ku, Jian-Guo Si, Peng-Fei Liu, Hao Gao*, Liujiang Zhou*, and Bao-Tian Wang*,
+[Phys. Rev. B, 2024, 109, 134502.](https://doi.org/10.1103/PhysRevB.109.134502)
+
+1. **Prediction of pressure-induced superconductivity in ternary systems YScH<sub>2n</sub> (n=3-6)**,
+Lan-Ting Shi†, Jian-Guo Si†, Robin Turnbull, Akun Liang, Peng-Fei Liu, and Bao-Tian Wang*,
+[Phys. Rev. B, 2024, 109, 054512.](https://doi.org/10.1103/PhysRevB.109.054512)
+
+1. **High-valence metal engineered trimetallic organic framework derived S, C co-doped FeNiCeP nanospheres for proficient self-powered overall water splitting**,
+Qianqian Wang，Xiaoyan Ma*, Wei You, Pengcheng Ma, Ran Bi, Senyang Song, Fang Chen, Fengjin Qu, Xinli Wang, and Peng-Fei Liu,
+[Chem. Eng. J., 2024, 148712.](https://doi.org/10.1016/j.cej.2024.148712)
+
+1. **Crystal-liquid duality driven ultralow two-channel thermal conductivity in α-MgAgSb**,
+Jingyu Li† Xiyang Li†, Yongsheng Zhang, Jianbo Zhu, Enyue Zhao, Maiko Kofu, Kenji Nakajima, Maxim Avdeev, Peng-Fei Liu*, Jiehe Sui, Huaizhou Zhao, Fangwei Wang*, and Junrong Zhang*,
+[Appl. Phys. Rev., 2024, 11, 011406.](https://doi.org/10.1063/5.0173680)
+
+1. **Tuning the Magneto-Seebeck effect in Co<sub>2</sub>FeSi/MgO/Co<sub>2</sub>FeSi heterostructure via optimized interfacial engineering**,
+Jingyu Li†, Xianbiao Shi†, Yurong Jin, Le Ma, Liuming Wei, Chi Zhang, Hang Li*, and Peng-Fei Liu*,
+[Sci. China-Phys. Mech. Astron., 2024, 67, 237011.](https://doi.org/10.1007/s11433-023-2265-9)
+
+1. **Effective Desolvation of Cation by Cellulose Nanofibrils for High-Performance Zinc Hybrid Supercapacitors**,
+Yuchen Sun, Junjie He*, Bin Xie, Lin Zhang, Hongmei Zhao, Lei Zhao, Peng-Fei Liu, and Jing Li*,
+[J. Energy Storage, 2024, 78, 110037.](https://doi.org/10.1016/j.est.2023.110037)
+
+1. **Strong-coupling superconductivity with T<sub>c</sub> above 70 K in Be-decorated monolayer T-graphene**,
+Liu Yang†, Peng-Fei Liu†, Hao-Dong Liu, Ya-Ping Li, Na Jiao, Bao-Tian Wang*, and Ping Zhang*,
+[Sci. China-Phys. Mech. Astron., 2024, 67, 217412.](https://doi.org/10.1007/s11433-023-2208-9)
+
+1. **Superconductivity in Ca<sub>3</sub>H<sub>2</sub> electride at moderate pressure**,
+Ziqiang Chen, Teng Xie, Pengfei Liu, Rui Xiong, Zhou Cui, Zihao Xu, Cuilian Wen*, Baotian Wang*, and Baisheng Sa*,
+[J. Mater. Chem. C, 2023, 11, 16728-16738.](https://doi.org/10.1039/D3TC01089A)
