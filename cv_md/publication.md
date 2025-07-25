@@ -672,7 +672,7 @@ Hua Lin, Hong Chen, Zi-Xiong Lin, Hua-Jun Zhao, Peng-Fei Liu, Ju-Song Yu, and Li
 Peng-Fei Liu, Liujiang Zhou\*, Thomas Frauenheim, and Li-Ming Wu\*,
 [Nanoscale, 2016, 8, 4915-4921.](https://doi.org/10.1039/C5NR08842A)
 
-1. **Strong IR NLO material Ba<sub>5</sub>MGa<sub>4</sub>Se<sub>10</sub>Cl<sub>2</sub>: highly improved laser damage threshold via dual ion substitution synergy**,
+1. **Strong IR NLO material Ba<sub>4</sub>MGa<sub>4</sub>Se<sub>10</sub>Cl<sub>2</sub>: highly improved laser damage threshold via dual ion substitution synergy**,
 Yan-Yan Li, Peng-Fei Liu, Lei Hu, Ling Chen, Hua Lin, Liu-Jiang Zhou, and Li-Ming Wu\*,
 [Adv. Opt. Mater., 2015, 3, 957-966.](https://doi.org/10.1002/adom.201500038)
 
