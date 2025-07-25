@@ -93,11 +93,11 @@ Yuchen Sun, Junjie He\*, Bin Xie, Lin Zhang, Hongmei Zhao, Lei Zhao, Peng-Fei Li
 [J. Energy Storage, 2024, 78, 110037.](https://doi.org/10.1016/j.est.2023.110037)
 
 1. **Strong-coupling superconductivity with T<sub>c</sub> above 70 K in Be-decorated monolayer T-graphene**,
-Liu Yang†, Peng-Fei Liu†, Hao-Dong Liu, Ya-Ping Li, Na Jiao, Bao-Tian Wang\*, and Ping Zhang\*,
+Liu Yang†, Peng-Fei Liu†, Hao-Dong Liu, Ya-Ping Li, Na Jiao, Hong-Yan Lu\*, Bao-Tian Wang\*, and Ping Zhang\*,
 [Sci. China-Phys. Mech. Astron., 2024, 67, 217412.](https://doi.org/10.1007/s11433-023-2208-9)
 
 1. **Superconductivity in Ca<sub>3</sub>H<sub>2</sub> electride at moderate pressure**,
-Ziqiang Chen, Teng Xie, Pengfei Liu, Rui Xiong, Zhou Cui, Zihao Xu, Cuilian Wen\*, Baotian Wang\*, and Baisheng Sa\*,
+Ziqiang Chen, Teng Xie, Peng-Fei Liu, Rui Xiong, Zhou Cui, Zihao Xu, Cuilian Wen\*, Bao-Tian Wang\*, and Baisheng Sa\*,
 [J. Mater. Chem. C, 2023, 11, 16728-16738.](https://doi.org/10.1039/D3TC01089A)
 
 1. **Wavelike tunneling of phonons dominates glassy thermal conductivity in crystalline Cs<sub>3</sub>Bi<sub>2</sub>I<sub>6</sub>Cl<sub>3</sub>**,
