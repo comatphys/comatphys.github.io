@@ -157,7 +157,7 @@ Xinli Wang, Juping Xu, Peng-Fei Liu, Bao-Tian Wang, and Wen Yin\*,
 [J. Mater. Chem. A, 2023, 11, 10628-10645.](https://doi.org/10.1039/D3TA01479G)
 
 1. **A comprehensive DFT study of the stabilization of methyl-mercury over Ag nanoparticles**,
-Jing Yang\*, Ji-Kang Zhao, Qing-An Sun, Yu Fan, Peng-Fei Liu，and Fen Qiao\*,
+Jing Yang\*, Ji-Kang Zhao, Qing-An Sun, Yu Fan, Peng-Fei Liu, and Fen Qiao\*,
 [Mater. Today Commun., 2023, 35, 105933.](https://doi.org/10.1016/j.mtcomm.2023.105933)
 
 1. **Computational Studies on Functionalized Janus MXenes MMʹCT<sub>2</sub> (MMʹCT<sub>2</sub>, M, Mʹ = Zr, Ti, Hf, M ≠ Mʹ, ; T = -O, -F, -OH): Photoelectronic Properties and Potential Photocatalytic Activities**,
