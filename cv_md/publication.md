@@ -612,7 +612,7 @@ Yue Wang, Hua-Jun Zhao, Yong-Fang Shi, Peng-Fei Liu, Xiao-Chuan Zou, and Yan-Ron
 Ali Khan Muhammad, Rui-Huan Duan, Yan-Yan Li, Peng-Fei Liu, Hua Lin\*, and Ling Chen\*,
 [Chinese J. Struc. Chem., 2017, 36, 1283-1290.](https://doi.org/10.14102/j.cnki.0254-5861.2011-1510)
 
-1. **Ba<sub>13</sub>(BS<sub>3</sub>)<sub>6</sub>(SnS<sub>6</sub>): synthesis, crystal structure, electronic structure, and optical property</sub>**,
+1. **Ba<sub>13</sub>(BS<sub>3</sub>)<sub>6</sub>(SnS<sub>6</sub>): synthesis, crystal structure, electronic structure, and optical property**,
 Muhammad Ali Khan, Jin-Qing Wang, Peng-Fei Liu, Ling Chen\*, and Yan-Yan Li\*,
 [Chinese J. Struc. Chem., 2017, 36, 204-210.](https://doi.org/10.14102/j.cnki.0254-5861.2011-1277)
 
