@@ -1,7 +1,7 @@
 # Publications
 
 1. **eDoping: A High-Throughput Software Package for Evaluating Point Defect Doping Limits in Semiconductor and Insulator Materials**,
-Jianbo Zhu†, Jingyu Li†, Zhuoyang Ti, Lankun Wang, Yaoling Shen, Liuming Wei, Xiaobing Liu, Xin Chen, Peng-Fei Liu\*, Jiehe Sui\*, and Yongsheng Zhang*,
+Jianbo Zhu†, Jingyu Li†, Zhuoyang Ti, Lankun Wang, Yaoling Shen, Liuming Wei, Xiaobing Liu, Xin Chen, Peng-Fei Liu`*`, Jiehe Sui`*`, and Yongsheng Zhang`*`,
 [Mater. Today Phys., 2025, 55, 101754.](https://doi.org/10.1016/j.mtphys.2025.101754)
 
 1. **Phonon softening enhanced superconductivity in YTiSi electride under pressure**,
