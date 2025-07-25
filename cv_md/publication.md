@@ -99,3 +99,43 @@ Liu Yang†, Peng-Fei Liu†, Hao-Dong Liu, Ya-Ping Li, Na Jiao, Bao-Tian Wang*,
 1. **Superconductivity in Ca<sub>3</sub>H<sub>2</sub> electride at moderate pressure**,
 Ziqiang Chen, Teng Xie, Pengfei Liu, Rui Xiong, Zhou Cui, Zihao Xu, Cuilian Wen*, Baotian Wang*, and Baisheng Sa*,
 [J. Mater. Chem. C, 2023, 11, 16728-16738.](https://doi.org/10.1039/D3TC01089A)
+
+1. **Wavelike tunneling of phonons dominates glassy thermal conductivity in crystalline Cs<sub>3</sub>Bi<sub>2</sub>I<sub>6</sub>Cl<sub>3</sub>**,
+Jingyu Li, Liuming Wei, Zhuoyang Ti, Le Ma, Yuli Yan, Guangbiao Zhang*, and Peng-Fei Liu*,
+[Phys. Rev. B, 2023, 108, 224302.](https://doi.org/10.1016/j.mtphys.2023.101257)
+
+1. **Coexistence of superconductivity and topological aspects in beryllenes**,
+Jingyu Li, Muchun Guo, Jianguo Si, Lanting Shi, Xianbiao Shi, Jiang-Jiang Ma, Qinyong Zhang, David J. Singh, Peng-Fei Liu∗, and Bao-Tian Wang*,
+[Mater. Today Phys., 2023, 38, 101257.](https://doi.org/10.1016/j.mtphys.2023.101257)
+
+1. **Study on the structure, electronics, and optics of gold cluster functionalized Mo<sub>2</sub>C based on strong metal support interaction: A comprehensive DFT study**,
+Ji-Kang Zhao, Jun Liu, Jing Yang*, Peng-Fei Liu, and Fen Qiao*,
+[Colloids Surf. A Physicochem. Eng. Asp., 2023, 679, 132552.](https://doi.org/10.1016/j.colsurfa.2023.132552)
+
+1. **Bidentate oxalate ion enhancing water-resistant stability and exciton recombination behavior of blue CsPb(Br/Cl)<sub>3</sub> quantum dots**,
+Le Ma†, Xiansheng Li†, Xuehan Chen, Jingyu Li, Peng-Fei Liu, Changting Wei, Qingshan Ma*, Leimeng Xu*, Wenhua Zhang*, and Jizhong Song*,
+[Chem. Eng. J., 2023, 474, 145732.](https://doi.org/10.1016/j.cej.2023.145732)
+
+1. **Molecular-Level Insights into Efficient Immobilization of Gas-Phase Elemental Mercury by a Selenium Cluster-Functionalized Carbon Surface: A DFT Study**,
+Qi Wang, Jing Yang*, Yu Fan, and Peng-Fei Liu,
+[Ind. Eng. Chem. Res., 2023, 62, 13773–13779.](https://doi.org/10.1021/acs.iecr.3c01497)
+
+1. **Computational Understanding and Prediction of 8-Electron Half-Heusler Compounds with Unusual Suppressed Phonon Conduction**,
+Jianbo Zhu†, Liangjun Xie†, Zhuoyang Ti†, Jingyu Li, Muchun Guo, Xuemei Zhang, Peng-Fei Liu, Lingling Tao, Zihang Liu*, Yongsheng Zhang*, and Jiehe Sui*,
+[Appl. Phys. Rev., 2023, 10, 031405.](https://doi.org/10.1039/D2CP02067J)
+
+1. **Strain-dependent electronic and mechanical properties in one-dimensional topological insulator Nb<sub>4</sub>SiTe<sub>4</sub>**,
+Siyuan Liu, Huabing Yin*, and Peng-Fei Liu*,
+[Phys. Rev. B, 2023, 108, 045411.](https://doi.org/10.1103/PhysRevB.108.045411)
+
+1. **Unique [Sb<sub>6</sub>O<sub>2</sub>S<sub>13</sub>]<sup>12–</sup> finite chain in oxychalcogenide Ba<sub>6</sub>Sb<sub>6</sub>O<sub>2</sub>S<sub>13</sub> leading to ultra-low thermal conductivity and giant birefringence**,
+Yong-Fang Shi, Shenghua Zhou, Peng-Fei Liu, Xintao Wu, Hua Lin*, and Qi-Long Zhu*,
+[Inorg. Chem. Front., 2023, 10, 4425-4434.](https://doi.org/10.1039/D3QI00850A)
+
+1. **Structure-Induced Enhanced Dissolving Properties of Mg(OH)<sub>2</sub> Prepared by Glycine-Assisted MgO Hydration**,
+Xiaojia Tang*, Zhongyuan Du, Yufei Wang, Yimin Zhu*, Cise Unluer, and Peng-Fei Liu,
+[Cryst. Res. Technol., 2023, 58, 2300074.](https://doi.org/10.1002/crat.202300074)
+
+1. **Microscopic mechanisms of glasslike lattice thermal conductivity in tetragonal α-CsCu<sub>5</sub>Se<sub>3</sub>**,
+Qing-Yu Xie, Peng-Fei Liu, Jiang-Jiang Ma, Li-Ming Wu, Kai-Wang Zhang*, and Bao-Tian Wang*,
+[Phys. Rev. B, 2023, 108, 014302.](https://doi.org/10.1103/PhysRevB.108.014302)
