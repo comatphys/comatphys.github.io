@@ -215,3 +215,43 @@ Siyuan Liu, Huabing Yin*, David J. Singh, and Peng-Fei Liu*,
 1. **Monolayer SnI<sub>2</sub>: an excellent p-type thermoelectric material with ultralow lattice thermal conductivity**,
 Qing-Yu Xie, Peng-Fei Liu, Jiang-Jiang Ma, Fang-Guang Kuang, Kai-wang Zhang*, and Bao-Tian Wang*,
 [Materials, 2022, 15, 3147.](https://doi.org/10.3390/ma15093147)
+
+1. **Topological Superconductivity in Rashba Spin-Orbital Coupling Suppressed Monolayer <i>β</i>-Bi<sub>2</sub>Pd**,
+Xin-Hai Tu, Peng-Fei Liu, Wen Yin, Jun-Rong Zhang, and Bao-Tian Wang*,
+[Mater. Today Phys., 2022, 24, 100674.](https://doi.org/10.1016/j.mtphys.2022.100674)
+
+1. **First-principles prediction of superconductivity in high-buckled two-dimensional tin**,
+Chao Liu†, Peng-Fei Liu†, Xin-Hai Tu, Ling Shang, Ping Zhang, Wei Ren*, and Bao-Tian Wang*,
+[ACS Appl. Electron. Mater., 2022, 4, 2062-2069.](https://doi.org/10.1021/acsaelm.2c00208)
+
+1. **Superconductivity in Mo-P Compounds Under Pressure and in Double-Weyl Semimetal Hex-MoP<sub>2</sub>**,
+Xin-Hai Tu†, Tao Bo†, Peng-Fei Liu, Wen Yin, Ning Hao∗, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2022, 24, 7893-7900.](https://doi.org/10.1039/D1CP05685A)
+
+1. **Low thermal conductivity and high performance anisotropic thermoelectric properties of XSe (X=Cu, Ag, Au) monolayers**,
+Qing-Yu Xie, Jiang-Jiang Ma, Qing-Yi Liu, Peng-Fei Liu, Pei Zhang, Kai-Wang Zhang*, and Bao-Tian Wang*,
+[Phys. Chem. Chem. Phys., 2022, 24, 7303-7310.](https://doi.org/10.1039/D1CP05708A)
+
+1. **Atomically Dispersed Cobalt in Core-Shell Carbon Nanofiber Membranes as Super-Flexible Freestanding Air-electrodes for Wearable Zn-air Batteries**,
+Zian Xu†, Jian Zhu†, Jingze Shao†, Yu Xia, Jochi Tseng, Chuanlai Jiao, Guangyuan Ren, Peng-Fei Liu, Guangshe Li, Rouxi Chen*, Shaoqing Chen*, Fuqiang Huang*, and Hsing-Lin Wang*,
+[Energy Stor. Mater., 2022, 47, 365-375.](https://doi.org/10.1016/j.ensm.2022.02.004)
+
+1. **A novel 2D material with intrinsically low thermal conductivity of Ga<sub>2</sub>O<sub>3</sub>(100)：First-principles investigations**,
+Wenya Zhai, Lanwei Li, Mengmeng Zhao, Qiuyuan Hu, Jingyu Li, Gui Yang, Yuli Yan*, Chi Zhang*, and Peng-Fei Liu*,
+[Phys. Chem. Chem. Phys., 2022, 24, 4613-4619.](https://doi.org/10.1039/d1cp05413a)
+
+1. **From <i>Cc</i> to <i>P</i>6<sub>3</sub><i>mc</i>: Structural Variation in La<sub>3</sub>S<sub>2</sub>Cl<sub>2</sub>[SbS<sub>3</sub>] and La<sub>3</sub>OSCl<sub>2</sub>[SbS<sub>3</sub>] Induced by the Isovalent Anion Substitution**,
+ Hua-Jun Zhao*, He-Di Yang, Peng-Fei Liu, and Hua Lin*,
+[Cryst. Growth Des., 2022, 22, 1437-1444.](https://doi.org/10.1021/acs.cgd.1c01405)
+
+1. **Phonon transport in Zintl Ba<sub>2</sub>ZnX<sub>2</sub> (X=As, Sb, and Bi): A first-principles study**,
+Wenya Zhai, Lanwei Li, Mengmeng Zhao, Qiuyuan Hu, Jingyu Li, Gui Yang, Yuli Yan*, Chi Zhang*, and Peng-Fei Liu*,
+[Mater. Sci. Semicond. Process., 2022, 141, 106446.](https://doi.org/10.1016/j.mssp.2021.106446)
+
+1. **Dual regulation both intrinsic activity and mass transport for self-supported electrodes using in anion exchange membrane water electrolysis**,
+Lei Wan, Ziang Xu, Peican Wang, Peng-Fei Liu, Qin Xu, and Baoguo Wang*,
+[Chem. Eng. J., 2022, 431, 133942.](https://doi.org/10.1016/j.cej.2021.133942)
+
+1. **Type-II Dirac cones and electron-phonon interaction in monolayer biphenylene from first-principles calculations**,
+Peng-Fei Liu, Jingyu Li, Chi Zhang, Xin-Hai Tu, Junrong Zhang, Ping Zhang, Bao-Tian Wang*, and David J. Singh,
+[Phys. Rev. B, 2021, 104, 235422.](https://doi.org/10.1103/PhysRevB.104.235422)
