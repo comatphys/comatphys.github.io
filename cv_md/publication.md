@@ -9,7 +9,7 @@ Zihao Xu, Jiaxiang Li, Peng-Fei Liu, Rui Xiong, Zhou Cui, Cuilian Wen\*, Bao-Tia
 [J. Mater. Chem. C, 2025, 13, 8753-8762.](https://doi.org/10.1039/D5TC00152H)
 
 1. **Materials Physics in Thermoelectric Materials**,
-Bao-Tian Wang and Peng-Fei Liu
+Bao-Tian Wang and Peng-Fei Liu,
 [MDPI, Book, 2025.](https://doi.org/10.3390/books978-3-7258-2127-3)
 
 1. **The interfacial trapped charge of quintuple-layers Al<sub>2</sub>O<sub>3</sub> induced by point defect**,
@@ -57,15 +57,15 @@ Jingyu Li, Liuming Wei, Xianbiao Shi, Lanting Shi, Jianguo Si, Peng-Fei Liu\*, a
 [Phys. Rev. B, 2024, 109, 174516.](https://doi.org/10.1021/jacs.4c01770)
 
 1. **Synthesis of Metal-Nitrogen-Carbon Electrocatalysts with Atomically Regulated Nitrogen-doped Polycyclic Aromatic Hydrocarbons**,
-Shaoqing Chen†, Hui-Min Yan†, Jochi Tseng†, Shijie Ge, Xia Li, Lin Xie, Zian Xu, Peng-Fei Liu, Chongxuan Liu, Jie Zeng, Yang-Gang Wang\*, Hsing-Lin Wang\*,
+Shaoqing Chen†, Hui-Min Yan†, Jochi Tseng†, Shijie Ge, Xia Li, Lin Xie, Zian Xu, Peng-Fei Liu, Chongxuan Liu, Jie Zeng, Yang-Gang Wang\*, and Hsing-Lin Wang\*,
 [J. Am. Chem. Soc., 2024, 146, 13703–13708.](https://doi.org/10.1021/jacs.4c01770)
 
 1. **Surface-induced a Local Electronegative Field to Engineer K-enriched Microenvironment for High-Performance Alkaline Hydrogen Evolution Reaction**,
-Jie Chena*, Zhihuai Lin, Peng-Fei Liu, Hongze Cai, Jianpeng Zeng, Fengying Zheng, Yancai Li\*, Shunxing Li\*,
+Jie Chena*, Zhihuai Lin, Peng-Fei Liu, Hongze Cai, Jianpeng Zeng, Fengying Zheng, Yancai Li\*, and Shunxing Li\*,
 [Sep. Purif. Technol., 2024, 347, 127538.](https://doi.org/10.1016/j.seppur.2024.127538)
 
 1. **Entropy Engineering Enabled Atomically Dispersed Cu Doping Leading to Exceptionally High Thermoelectric Figure of Merit in n-type Lead Chalcogenides**,
-Ziling Yuan†, Mengyue Wu†, Shuai Han†, Peng-Fei Liu, Zhenhua Ge, Bangzhi Ge, Menghua Zhu, Yadong Xu, Wanqi Jie, Dongyao Zhao, Bingchao Yang, Yongsheng Zhang, Ming Liu, Min Zhu, Chao Li\*, Yuan Yu\*, Chongjian Zhou\*,
+Ziling Yuan†, Mengyue Wu†, Shuai Han†, Peng-Fei Liu, Zhenhua Ge, Bangzhi Ge, Menghua Zhu, Yadong Xu, Wanqi Jie, Dongyao Zhao, Bingchao Yang, Yongsheng Zhang, Ming Liu, Min Zhu, Chao Li\*, Yuan Yu\*, and Chongjian Zhou\*,
 [Energy Environ. Sci., 2024, 17, 2921-2934.](https://doi.org/10.1039/D4EE00691G)
 
 1. **Electron-phonon driven charge density wave and superconductivity in a 1T-TaSi<sub>2</sub>N<sub>4</sub> monolayer**,
@@ -177,7 +177,7 @@ Shulin Liu, Xiang-Xi Ye\*, Chen Ming\*, Shuai Yan, Yanyan Jia, Huaican Chen, Pen
 [J. Alloys Compd., 2023, 933, 167725.](https://doi.org/10.1016/j.jallcom.2022.167725)
 
 1. **Hydrogen production performance and theoretical mechanism analysis of chain-like ZnO/ZnS heterojunction**,
-Fen Qiao\*, Wenjie Liu, Jing Yang, Jiaren Yuan, Kaiyue Sun, Peng-Fei Liu,
+Fen Qiao\*, Wenjie Liu, Jing Yang, Jiaren Yuan, Kaiyue Sun, and Peng-Fei Liu,
 [Int. J. Hydrogen Energ., 2023, 48, 953-963.](https://doi.org/10.1016/j.ijhydene.2022.09.246)
 
 1. **Superconductivity and topological properties in the kagome metals CsM<sub>3</sub>Te<sub>5</sub> (M=Ti, Zr, Hf): A first-principles investigation**,
@@ -326,7 +326,7 @@ Dongyan Shen, Yong Liu, Guangxing Yang\*, Hao Yu, Peng-Fei Liu, and Feng Peng\*,
 
 1. **A new type of novel salt-inclusion chalcogenides with ultralow thermal conductivity**,
 Hong Chen, Peng-Fei Liu, Hua Lin\*, and Xin-Tao Wu\*,
-'Chem. Commun., 2020, 56, 15149-15152.](https://doi.org/10.1039/D0CC06306A)
+[Chem. Commun., 2020, 56, 15149-15152.](https://doi.org/10.1039/D0CC06306A)
 
 1. **Significant enhancement of the thermoelectric properties of CaP<sub>3</sub> through reducing dimensionality**,
 Xue-Liang Zhu, Peng-Fei Liu, Yiyuan Wu, Ping Zhang, Guofeng Xie\*, and Bao-Tian Wang\*,
@@ -340,7 +340,7 @@ Tao Bo, Peng-Fei Liu, Luo Yan, and Bao-Tian Wang\*,
 Kuangwei Xiong\*, Qianjun Zheng, Ziqiang Cheng, and Peng-Fei Liu,
 [Eur. Phys. J. B, 2020, 93, 201.](https://doi.org/10.1140/epjb/e2020-10368-x)
 
-1. ** Prediction of superconductivity and topological aspects in single-layer β-Bi<sub>2</sub>Pd**,
+1. **Prediction of superconductivity and topological aspects in single-layer β-Bi<sub>2</sub>Pd**,
 Peng-Fei Liu†, Jingyu Li†, Xin-Hai Tu, Huabing Yin, Baisheng Sa, Junrong Zhang, David J. Singh\*, and Bao-Tian Wang\*,
 [Phys. Rev. B, 2020, 102, 155406.](https://doi.org/10.1103/PhysRevB.102.155406)
 
@@ -537,7 +537,7 @@ Bao-Tian Wang\*, Peng-Fei Liu, Jing-Jing Zheng, Wen Yin, and Fangwei Wang,
 [Phys. Rev. B, 2018, 98, 014514.](https://doi.org/10.1103/PhysRevB.98.014514)
 
 1. **Face-centered cubic MoS<sub>2</sub>: a novel superconducting three-dimensional crystal more stable than layered T-MoS<sub>2</sub>**,
-Peng-Fei Liu, and Bao-Tian Wang\*,
+Peng-Fei Liu and Bao-Tian Wang\*,
 [J. Mater. Chem. C, 2018, 6, 6046-6051.](https://doi.org/10.1039/C8TC01360H)
 
 1. **Superconductivity in two-dimensional phosphorus carbide (β<sub>0</sub>-PC)**,
