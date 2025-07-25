@@ -304,7 +304,7 @@ Ling Shang, Peng-Fei Liu, Heng Gao, Wei Wu, Yin Wang, Zhibin Gao, Bao-Tian Wang\
 Jingyu Li†, Wenya Zhai†, Chi Zhang, Yuli Yan\*, Peng-Fei Liu\*, and Gui Yang,
 [Mater. Adv., 2021, 2, 4876-4882.](https://doi.org/10.1039/D1MA00375E)
 
-1. **A<sub>3</sub>Mn<sub>2</sub>Sb<sub>3</sub>S<sub>8</sub> (A = K, Rb): A new type of multifunctional infrared nonlinear optical materials based on unique three-dimensional open frameworks**,
+1. **A<sub>3</sub>Mn<sub>2</sub>Sb<sub>3</sub>S<sub>8</sub> (A = K and Rb): A new type of multifunctional infrared nonlinear optical materials based on unique three-dimensional open frameworks**,
 Yu Xiao, Man-Man Chen, Ya-Ying Shen, Peng-Fei Liu, Hua Lin\*, and Yi Liu\*,
 [Inorg. Chem. Front., 2021, 8, 2835-2843.](https://doi.org/10.1039/D1QI00214G)
 
