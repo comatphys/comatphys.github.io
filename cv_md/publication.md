@@ -248,6 +248,10 @@ Qing-Yu Xie, Jiang-Jiang Ma, Qing-Yi Liu, Peng-Fei Liu, Pei Zhang, Kai-Wang Zhan
 Zian Xu†, Jian Zhu†, Jingze Shao†, Yu Xia, Jochi Tseng, Chuanlai Jiao, Guangyuan Ren, Peng-Fei Liu, Guangshe Li, Rouxi Chen\*, Shaoqing Chen\*, Fuqiang Huang\*, and Hsing-Lin Wang\*,
 [Energy Stor. Mater., 2022, 47, 365-375.](https://doi.org/10.1016/j.ensm.2022.02.004)
 
+1. **Density Functional Theory plus U Study of Methanol Adsorption and Decomposition on CuO Surfaces with Oxygen Vacancy**,
+Lu Liu\*, Peng Gong, Guangcai Shao, Pengfei Liu, and Junfeng Wang,
+[Aerosol Air Qual. Res., 2022, 22, 210253.](https://doi.org/10.4209/aaqr.210253)
+
 1. **A novel 2D material with intrinsically low thermal conductivity of Ga<sub>2</sub>O<sub>3</sub>(100)：First-principles investigations**,
 Wenya Zhai, Lanwei Li, Mengmeng Zhao, Qiuyuan Hu, Jingyu Li, Gui Yang, Yuli Yan\*, Chi Zhang\*, and Peng-Fei Liu\*,
 [Phys. Chem. Chem. Phys., 2022, 24, 4613-4619.](https://doi.org/10.1039/d1cp05413a)
