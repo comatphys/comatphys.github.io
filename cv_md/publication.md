@@ -2,11 +2,11 @@
 
 1. **Space-confined synthesis of sinter-resistant high-entropy nanoparticle library**,
 Shaoqing Chen, Xia Li\*, Ziqiang Qu, Xiang Li, Yuanzhu Gao, Peng-Fei Liu, Zhi-Qiang Dong, Peng Yu, Qiming Sun\*, Shixue Dou, Zhongfan Liu, and Jingyu Sun\*,
-[Nat. Commun., 2025, in press.](https://doi.org/10.1016/j.mtphys.2025.101754) <i class="fa-regular fa-file-pdf"></i>
+[Nat. Commun., 2025, in press.](https://doi.org/10.1016/j.mtphys.2025.101754)
 
 1. **Revisiting thermoelectric transport properties through a band nonparabolicity factor**,
 Jianbo Zhu, Ming Liu, Xingyan Dong, Jingyu Li, Peng-Fei Liu, Xin Chen, Zihang Liu, Yongsheng Zhang\*, Fengkai Guo\*, Jiehe Sui\*,
-[Natl. Sci. Rev., 2025, 12, nwaf216.](https://doi.org/10.1093/nsr/nwaf216) <i class="fa-regular fa-file-pdf"></i>
+[Natl. Sci. Rev., 2025, 12, nwaf216.](https://doi.org/10.1093/nsr/nwaf216)
 
 1. **Localized anion rattlers in kink-twisted ladders induce avoided-crossing modes and phonon coherence in binary Nowotny chimney ladders**,
 Jingyu Li, Liuming Wei, Juping Xu, Yuanguang Xia, Huaican Chen, Ting Liu, Yan Li, Peng-Fei Liu, and Wen Yin\*,
