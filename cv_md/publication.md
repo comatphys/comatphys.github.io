@@ -260,7 +260,7 @@ Wenya Zhai, Lanwei Li, Mengmeng Zhao, Qiuyuan Hu, Jingyu Li, Gui Yang, Yuli Yan\
  Hua-Jun Zhao\*, He-Di Yang, Peng-Fei Liu, and Hua Lin\*,
 [Cryst. Growth Des., 2022, 22, 1437-1444.](https://doi.org/10.1021/acs.cgd.1c01405)
 
-1. **Charge density wave and pressure-dependent superconductivity in the kagome metal CsV<sub>3</sub>Sb<sub>5</sub> : A first-principles study**,
+1. **Charge density wave and pressure-dependent superconductivity in the kagome metal CsV<sub>3</sub>Sb<sub>5</sub>: A first-principles study**,
 Jian-Guo Si, Wen-Jian Lu\*, Yu-Ping Sun, Peng-Fei Liu, and Bao-Tian Wang\*,
 [Phys. Rev. B, 2022, 105, 024517.](https://doi.org/10.1103/PhysRevB.105.024517)
 
