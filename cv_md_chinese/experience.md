@@ -1,4 +1,4 @@
-# Employment
-- **Associate researcher**, China Neutron Science Center, Institute of High Energy Physics, Chinese Academy of Sciences, China, 2023 - Present
-- **Assistant researcher**, China Neutron Science Center, Institute of High Energy Physics, Chinese Academy of Sciences, China, 2017 - 2023
+# 工作经历
+- **副研究员** 2023-现在, 中国科学院高能物理研究所中国散裂中子源
+- **助理研究员** 2017-2023, 中国科学院高能物理研究所中国散裂中子源
  
