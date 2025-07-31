@@ -1,4 +1,4 @@
-# Publications
+# 代表论文
 
 1. **Space-confined synthesis of sinter-resistant high-entropy nanoparticle library**,
 Shaoqing Chen, Xia Li\*, Ziqiang Qu, Xiang Li, Yuanzhu Gao, Peng-Fei Liu, Zhi-Qiang Dong, Peng Yu, Qiming Sun\*, Shixue Dou, Zhongfan Liu, and Jingyu Sun\*,
