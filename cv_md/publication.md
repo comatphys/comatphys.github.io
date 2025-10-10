@@ -1,6 +1,6 @@
 # Publications
 1. **Amino acid mediated hydration of caustic calcined magnesia: dual-function for efficient conversion and purification**,
-Jingyu Li†, Zheng Ma†, Hao Wang†, Lanwei Li, Jianbo Zhu, Huaican Chen, Yuanpeng Zhang, Zhuoyang Ti, Jiajun Zhong, Yuanguang Xia, Peng-Fei Liu, Yongsheng Zhang, and Wen Yin\*,
+Xiaojia Tang\*, Hanqiang Liu, Kehan Wang, Zhongyuan Du, Yangyuan Ji, Yimin Zhu, Qingzhen Meng, and Peng-Fei Liu,
 [J. Cleaner Prod., 2025, ASAP.](https://doi.org/10.1021/jacs.5c12728)
 
 1. **Boosting Thermoelectric Properties of High-Entropy Chalcogenides through Local Structural Distortion and Tailored Chemical Bonding**,
