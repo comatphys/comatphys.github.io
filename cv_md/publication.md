@@ -1,4 +1,8 @@
 # Publications
+1. **Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu<sub>3</sub>(CO)<sub>6</sub>**,
+Jing-Jing Zheng, Jingyu Li, Rong-Rong Ma, Fengkai Guo, Jiang-Jiang Ma\*, and Peng-Fei Liu\*,
+[Phys. Rev. B, 2025, ASAP.](https://doi.org/10.1016/j.jclepro.2025.146829)
+
 1. **Amino acid mediated hydration of caustic calcined magnesia: dual-function for efficient conversion and purification**,
 Xiaojia Tang\*, Hanqiang Liu, Kehan Wang, Zhongyuan Du, Yangyuan Ji, Yimin Zhu, Qingzhen Meng, and Peng-Fei Liu,
 [J. Cleaner Prod., 2025, 529, 146829.](https://doi.org/10.1016/j.jclepro.2025.146829)
