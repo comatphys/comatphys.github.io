@@ -9,7 +9,7 @@ Xiaojia Tang\*, Hanqiang Liu, Kehan Wang, Zhongyuan Du, Yangyuan Ji, Yimin Zhu, 
 
 1. **Boosting Thermoelectric Properties of High-Entropy Chalcogenides through Local Structural Distortion and Tailored Chemical Bonding**,
 Jingyu Li†, Zheng Ma†, Hao Wang†, Lanwei Li, Jianbo Zhu, Huaican Chen, Yuanpeng Zhang, Zhuoyang Ti, Jiajun Zhong, Yuanguang Xia, Peng-Fei Liu, Yongsheng Zhang, and Wen Yin\*,
-[J. Am. Chem. Soc., 2025, ASAP.](https://doi.org/10.1021/jacs.5c12728)
+[J. Am. Chem. Soc., 2025, 147, 41629–41638.](https://doi.org/10.1021/jacs.5c12728)
 
 1. **Space-confined synthesis of sinter-resistant high-entropy nanoparticle library**,
 Shaoqing Chen, Xia Li\*, Ziqiang Qu, Xiang Li, Yuanzhu Gao, Peng-Fei Liu, Zhi-Qiang Dong, Peng Yu, Qiming Sun\*, Shixue Dou, Zhongfan Liu, and Jingyu Sun\*,
