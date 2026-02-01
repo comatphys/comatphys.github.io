@@ -1,5 +1,9 @@
 # Publications
-1. **Lattice Engineering and Optical Properties Tuning in YAG:Pr<sup>3+</sup> via Ga<sup>3+</sup> Doping**,
+1. **Electron-phonon coupling superconductivity in one-dimensional M<sub>6</sub>Q<sub>6</sub> (M =Mo,W; Q=S, Se, Te) nanowires**,
+Jingjing Zheng, Jinwen Yang, Rongrong Ma, Zhihong Yuan, Jingyu Li\*, Pengfei Liu, and Jiangjiang Ma\*,
+[Acta Phys. Sin., 2026, 75.](https://doi.org/10.7498/aps.75.20251790)
+
+1. **Lattice Engineering and Optical Properties Tuning in YAG: Pr<sup>3+</sup> via Ga<sup>3+</sup> Doping**,
 Yiyang Lin, Ling Liang, Zhenggang Zou\*, Yijian Sun\*, Pengfei Liu, Guoliang Gong, Herui Wen,
 [Ceram. Int., 2026, 13.](https://doi.org/10.1016/j.ceramint.2026.01.160)
 
