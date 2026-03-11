@@ -13,7 +13,7 @@ Jingjing Zheng, Jinwen Yang, Rongrong Ma, Zhihong Yuan, Jingyu Li\*, Pengfei Liu
 
 1. **Lattice Engineering and Optical Properties Tuning in YAG: Pr<sup>3+</sup> via Ga<sup>3+</sup> Doping**,
 Yiyang Lin, Ling Liang, Zhenggang Zou\*, Yijian Sun\*, Pengfei Liu, Guoliang Gong, Herui Wen,
-[Ceram. Int., 2026, 13.](https://doi.org/10.1016/j.ceramint.2026.01.160)
+[Ceram. Int., 2026, 52, 9826-9836.](https://doi.org/10.1016/j.ceramint.2026.01.160)
 
 1. **Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu<sub>3</sub>(CO)<sub>6</sub>**,
 Jing-Jing Zheng, Jingyu Li, Rong-Rong Ma, Fengkai Guo, Jiang-Jiang Ma\*, and Peng-Fei Liu\*,
