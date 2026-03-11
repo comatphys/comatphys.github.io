@@ -1,4 +1,8 @@
 # Publications
+1. **Giant Intrinsic Chirality Amplification of Aqueous Lead Halide Perovskite Nanocrystals via H-Bond Driven Self-Assembly Superstructures**,
+Mei Huang, Pengfei Liu, Zhihong Zhang, Ruijing Fu, Kar Wei Ng, Qingguang Zeng\*, Bo Wang\*, and Shuangpeng Wang\*,
+[Adv. Funct. Mater., 2026.](https://doi.org/10.1088/0256-307X/43/3/030711)
+
 1. **High-Throughput Screening MgFe<sub>6</sub>Ge<sub>6</sub>-Prototype Bilayer Kagome Family**,
 Lan-Ting Shi†, Jian-Guo Si†, Hui-Bin Zhou, Xian-Biao Shi, Peng-Fei Liu, Le-De Xian, Ping Zhang, and Bao-Tian Wang\*,
 [Chin. Phys. Lett., 2026.](https://doi.org/10.1088/0256-307X/43/3/030711)
