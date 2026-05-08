@@ -1,4 +1,8 @@
 # Publications
+1. **Achieving Zero Phase Transition in P2-Type Layered Oxides via Targeted Chemical Design for Zero-Strain Sodium Storage**,
+Na Li, Pengfei Liu, Juping Xu, Huaican Chen, Yuanguang Xia, Fangwei Wang, Wen Yin\*, Jinkui Zhao\*, Enyue Zhao\*,
+[Adv. Mater., 2026. 0, e21716.](https://doi.org/10.1002/adma.202521716)
+
 1. **Giant Intrinsic Chirality Amplification of Aqueous Lead Halide Perovskite Nanocrystals via H-Bond Driven Self-Assembly Superstructures**,
 Mei Huang†, Pengfei Liu†, Zhihong Zhang, Ruijing Fu, Kar Wei Ng, Qingguang Zeng\*, Bo Wang\*, and Shuangpeng Wang\*,
 [Adv. Funct. Mater., 2026. 0, e75069.](https://doi.org/10.1002/adfm.75069)
