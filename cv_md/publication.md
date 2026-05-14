@@ -13,7 +13,7 @@ Mei Huang†, Pengfei Liu†, Zhihong Zhang, Ruijing Fu, Kar Wei Ng, Qingguang Z
 
 1. **High-Throughput Screening MgFe<sub>6</sub>Ge<sub>6</sub>-Prototype Bilayer Kagome Family**,
 Lan-Ting Shi†, Jian-Guo Si†, Hui-Bin Zhou, Xian-Biao Shi, Peng-Fei Liu, Le-De Xian, Ping Zhang, and Bao-Tian Wang\*,
-[Chin. Phys. Lett., 2026. 43 030711.](https://doi.org/10.1088/0256-307X/43/3/030711)
+[Chin. Phys. Lett., 2026. 43, 030711.](https://doi.org/10.1088/0256-307X/43/3/030711)
 
 1. **Electron-phonon coupling superconductivity in one-dimensional M<sub>6</sub>Q<sub>6</sub> (M =Mo,W; Q=S, Se, Te) nanowires**,
 Jingjing Zheng, Jinwen Yang, Rongrong Ma, Zhihong Yuan, Jingyu Li\*, Pengfei Liu, and Jiangjiang Ma\*,
