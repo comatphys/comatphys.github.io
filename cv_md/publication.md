@@ -1,15 +1,15 @@
 # Publications
 1. **Coupling Dead‐Lithium Reactivation and Interfacial Stabilization for Long‐Life Lithium Metal Batteries**,
 Qiuxue Jian, Yanchao Fan, Pengfei Liu, Fangwei Wang, Yinzhen Wang\*, Jinkui Zhao\*, Enyue Zhao\*,
-[Small, 2026.](https://doi.org/10.1002/smll.73843)
+[Small, 2026, e73843.](https://doi.org/10.1002/smll.73843)
 
 1. **Achieving Zero Phase Transition in P2-Type Layered Oxides via Targeted Chemical Design for Zero-Strain Sodium Storage**,
 Na Li, Pengfei Liu, Juping Xu, Huaican Chen, Yuanguang Xia, Fangwei Wang, Wen Yin\*, Jinkui Zhao\*, Enyue Zhao\*,
-[Adv. Mater., 2026. 0, e21716.](https://doi.org/10.1002/adma.202521716)
+[Adv. Mater., 2026. 38, e21716.](https://doi.org/10.1002/adma.202521716)
 
 1. **Giant Intrinsic Chirality Amplification of Aqueous Lead Halide Perovskite Nanocrystals via H-Bond Driven Self-Assembly Superstructures**,
 Mei Huang†, Pengfei Liu†, Zhihong Zhang, Ruijing Fu, Kar Wei Ng, Qingguang Zeng\*, Bo Wang\*, and Shuangpeng Wang\*,
-[Adv. Funct. Mater., 2026. 0, e75069.](https://doi.org/10.1002/adfm.75069)
+[Adv. Funct. Mater., 2026. 36, e75069.](https://doi.org/10.1002/adfm.75069)
 
 1. **High-Throughput Screening MgFe<sub>6</sub>Ge<sub>6</sub>-Prototype Bilayer Kagome Family**,
 Lan-Ting Shi†, Jian-Guo Si†, Hui-Bin Zhou, Xian-Biao Shi, Peng-Fei Liu, Le-De Xian, Ping Zhang, and Bao-Tian Wang\*,
