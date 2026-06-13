@@ -1,7 +1,7 @@
 # Publications
 1. **Coupling Dead‐Lithium Reactivation and Interfacial Stabilization for Long‐Life Lithium Metal Batteries**,
 Qiuxue Jian, Yanchao Fan, Pengfei Liu, Fangwei Wang, Yinzhen Wang\*, Jinkui Zhao\*, and Enyue Zhao\*,
-[Small, 2026, e73843.](https://doi.org/10.1002/smll.73843)
+[Small, 2026, e73843.](https://doi.org/10.1002/smll.73843) 
 
 1. **Achieving Zero Phase Transition in P2-Type Layered Oxides via Targeted Chemical Design for Zero-Strain Sodium Storage**,
 Na Li, Pengfei Liu, Juping Xu, Huaican Chen, Yuanguang Xia, Fangwei Wang, Wen Yin\*, Jinkui Zhao\*, and Enyue Zhao\*,
