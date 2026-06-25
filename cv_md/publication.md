@@ -1,6 +1,6 @@
 # Publications
 1. **Chemical Design Principles for Managing the Capacity-Stability Trade-off in High-voltage Sodium Layered Cathodes**,
-Ao Zeng, Shuaiqin Qiu, Rui Cheng, Le Kang, Pengfei Liu, Enyue Zhao\*, and Xiaoling Xiao\*,
+Ao Zeng, Shuaiqin Qiu, Rui Cheng, Le Kang, Pengfei Liu, Enyue Zhao\*, and Xiaoling Xiao\*, 
 [Angew. Chem. Int. Ed., 2026, e73843.](https://doi.org/10.1002/smll.73843) 
 
 1. **Coupling Dead‐Lithium Reactivation and Interfacial Stabilization for Long‐Life Lithium Metal Batteries**,
