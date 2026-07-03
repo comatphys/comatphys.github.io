@@ -1,4 +1,9 @@
 # Publications
+
+1. **Promising thermoelectric properties of quasi-one-dimensional phosphorus-based materials by tuning the chainlike twisting**,
+Jiang-Jiang Ma, Dan Zhang, Rong-Rong Ma, Changsheng Min, Zhihong Yuan, Xiao-xiao Zhang, Peng-Fei Liu, Yu Zhou, Jingyu Li\*, and Wen Yin\*,
+[Phys. Rev. B - Accepted.](https://doi.org/10.1103/p2g3-ftty) 
+
 1. **Chemical Design Principles for Managing the Capacity-Stability Trade-off in High-voltage Sodium Layered Cathodes**,
 Ao Zeng, Shuaiqin Qiu, Rui Cheng, Le Kang, Pengfei Liu, Enyue Zhao\*, and Xiaoling Xiao\*,
 [Angew. Chem. Int. Ed., 2026, e73843.](https://doi.org/10.1002/smll.73843) 
