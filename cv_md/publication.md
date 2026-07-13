@@ -2,15 +2,15 @@
 
 1. **Promising thermoelectric properties of quasi-one-dimensional phosphorus-based materials by tuning the chainlike twisting**,
 Jiang-Jiang Ma, Dan Zhang, Rong-Rong Ma, Changsheng Min, Zhihong Yuan, Xiao-xiao Zhang, Peng-Fei Liu, Yu Zhou, Jingyu Li\*, and Wen Yin\*,
-[Phys. Rev. B - Accepted.](https://doi.org/10.1103/p2g3-ftty) 
+[Phys. Rev. B, 2026, 114, 034303.](https://doi.org/10.1103/p2g3-ftty) 
 
 1. **Chemical Design Principles for Managing the Capacity-Stability Trade-off in High-voltage Sodium Layered Cathodes**,
 Ao Zeng, Shuaiqin Qiu, Rui Cheng, Le Kang, Pengfei Liu, Enyue Zhao\*, and Xiaoling Xiao\*,
-[Angew. Chem. Int. Ed., 2026, e73843.](https://doi.org/10.1002/smll.73843) 
+[Angew. Chem. Int. Ed., 2026, e73843.](https://doi.org/10.1002/ange.7403991)
 
 1. **Coupling Dead‐Lithium Reactivation and Interfacial Stabilization for Long‐Life Lithium Metal Batteries**,
 Qiuxue Jian, Yanchao Fan, Pengfei Liu, Fangwei Wang, Yinzhen Wang\*, Jinkui Zhao\*, and Enyue Zhao\*,
-[Small, 2026, e73843.](https://doi.org/10.1002/smll.73843) 
+[Small, 2026, 22, e73843.](https://doi.org/10.1002/smll.73843) 
 
 1. **Achieving Zero Phase Transition in P2-Type Layered Oxides via Targeted Chemical Design for Zero-Strain Sodium Storage**,
 Na Li, Pengfei Liu, Juping Xu, Huaican Chen, Yuanguang Xia, Fangwei Wang, Wen Yin\*, Jinkui Zhao\*, and Enyue Zhao\*,
