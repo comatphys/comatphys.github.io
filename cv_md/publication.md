@@ -2,7 +2,7 @@
 
 1. **NEPHONON: An Efficient Phonon Calculator Based on Neuroevolution Potentials**,
 Peng-Fei Liu, Jianbo Zhu, Xi Chen, Jingyu Li, Yongsheng Zhang\*, and Junrong Zhang\*,
-[Comput. Phys. Commun., 2026, 114, 034303.](https://doi.org/10.1103/p2g3-ftty) 
+[Comput. Phys. Commun., 2026, 328, 110344.](https://doi.org/10.1103/p2g3-ftty) 
 
 1. **Promising thermoelectric properties of quasi-one-dimensional phosphorus-based materials by tuning the chainlike twisting**,
 Jiang-Jiang Ma, Dan Zhang, Rong-Rong Ma, Changsheng Min, Zhihong Yuan, Xiao-xiao Zhang, Peng-Fei Liu, Yu Zhou, Jingyu Li\*, and Wen Yin\*,
