@@ -1,5 +1,9 @@
 # Publications
 
+1. **γ-SnSe: A new strong anharmonic material with low two-channel thermal conductivity**,
+Chi Zhang\*, Liu-Ming Wei, Xue-Mei Zhang, Zhi-Hong Yuan, Wen-Ya Zhai\*, Peng-Fei Liu, and Jing-Yu Li\*,
+[Mater. Sci. Semicond. Process., 2026, 209,  110612.](https://doi.org/10.1103/p2g3-ftty)
+
 1. **NEPHONON: An Efficient Phonon Calculator Based on Neuroevolution Potentials**,
 Peng-Fei Liu, Jianbo Zhu, Xi Chen, Jingyu Li, Yongsheng Zhang\*, and Junrong Zhang\*,
 [Comput. Phys. Commun., 2026, 328, 110344.](https://doi.org/10.1103/p2g3-ftty) 
