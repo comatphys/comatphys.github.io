@@ -1,4 +1,8 @@
 # Publications
+1. **Unlocking high fluorination efficiency of anode interphase via electrostatic interaction for ultra-stable lithium metal batteries**,
+Yanchao Fan, Qiuxue Jian, Pengfei Liu, Fangwei Wang, Peng Zhang\*, Jinkui Zhao\*, and Enyue Zhao\*,
+[Sci. Bull., 2026.](https://doi.org/10.1016/j.scib.2026.08.064)
+
 1. **Pre-Regulated Inner Helmholtz Plane via Coupling Crystallographic Orientation with Anion-Rich Dual-Functional Surface for High-Rate Zn Metal Anodes**,
 Huangyu Zhao, Kesheng Gao, Aiying Song, Sihao He, Pengfei Liu, Hui Lin, Yan-Jie Wang\*, Jinkui Zhao\*, and Enyue Zhao\*,
 [ACS Nano, 2026, 209, 110612.](https://doi.org/10.1016/j.mssp.2026.110612)
