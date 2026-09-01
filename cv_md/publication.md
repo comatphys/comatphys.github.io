@@ -5,7 +5,7 @@ Yanchao Fan, Qiuxue Jian, Pengfei Liu, Fangwei Wang, Peng Zhang\*, Jinkui Zhao\*
 
 1. **Pre-Regulated Inner Helmholtz Plane via Coupling Crystallographic Orientation with Anion-Rich Dual-Functional Surface for High-Rate Zn Metal Anodes**,
 Huangyu Zhao, Kesheng Gao, Aiying Song, Sihao He, Pengfei Liu, Hui Lin, Yan-Jie Wang\*, Jinkui Zhao\*, and Enyue Zhao\*,
-[ACS Nano, 2026, 209, 110612.](https://doi.org/10.1016/j.mssp.2026.110612)
+[ACS Nano, 2026.](https://doi.org/10.1021/acsnano.6c10899)
 
 1. **γ-SnSe: A new strong anharmonic material with low two-channel thermal conductivity**,
 Chi Zhang\*, Liu-Ming Wei, Xue-Mei Zhang, Zhi-Hong Yuan, Wen-Ya Zhai\*, Peng-Fei Liu, and Jing-Yu Li\*,
